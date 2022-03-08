@@ -427,8 +427,6 @@ cask wine-stable
 cask xbar
 cask zoom
 
-tap athrunsun/appimage
-
 tap athrunsun/athruncask
 cask python2
 
