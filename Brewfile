@@ -430,8 +430,6 @@ cask zoom
 tap athrunsun/athruncask
 cask python2
 
-tap athrunsun/osxbinary
-
 tap brewsci/base
 
 tap brewsci/bio
