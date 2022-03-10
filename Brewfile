@@ -358,8 +358,6 @@ tap homebrew/cask-fonts
 cask font-hackgen-nerd
 
 tap homebrew/cask-versions
-cask background-music-pre
-cask brave-browser-dev
 cask discord-canary
 cask firefox-developer-edition
 cask firefox-nightly
@@ -375,7 +373,6 @@ tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
-cask amazon-photos
 cask android-platform-tools
 cask bettertouchtool
 cask bitwarden
@@ -399,7 +396,6 @@ cask microsoft-auto-update
 cask microsoft-teams
 cask mumble
 cask netdownloadhelpercoapp
-cask notion
 cask notion-enhanced
 cask obs
 cask onyx
