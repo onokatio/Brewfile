@@ -248,6 +248,7 @@ brew openldap
 brew openssl@1.1
 brew opus
 brew orc
+brew osinfo-db
 brew p11-kit
 brew p7zip
 brew pango
@@ -449,6 +450,8 @@ tap homebrew-ffmpeg/ffmpeg
 tap jeffreywildman/virt-manager
 
 tap knazarov/qemu-virgl
+brew libangle
+brew libepoxy-angle
 
 tap koekeishiya/formulae
 
@@ -457,8 +460,9 @@ tap kryptco/tap
 tap mas-cli/tap
 
 tap onokatio/onokatio
+brew radicale
+brew radicale-decsync
 brew softether-vpnclient
-brew sshpass
 
 tap osx-cross/arm
 
@@ -481,6 +485,7 @@ tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.10.4)
+appstore 409183694   Keynote             (11.2)
 appstore 539883307   LINE                (7.7.0)
 appstore 1429033973  RunCat              (9.6)
-appstore 1475387142  Tailscale           (1.20.4)
+appstore 1475387142  Tailscale           (1.22.1)
