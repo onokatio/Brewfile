@@ -481,7 +481,6 @@ tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.10.4)
-appstore 682658836   GarageBand          (10.4.5)
 appstore 539883307   LINE                (7.7.0)
 appstore 1429033973  RunCat              (9.6)
 appstore 1475387142  Tailscale           (1.20.4)
