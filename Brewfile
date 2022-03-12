@@ -133,9 +133,4 @@ tap rcmdnk/rcmdnkpac
 tap yt-dlp/taps
 
 # App Store applications
-appstore 682658836   GarageBand  (10.4.5)
-appstore 408981434   iMovie      (10.3.1)
-appstore 409183694   Keynote     (11.2)
-appstore 409203825   Numbers     (11.2)
-appstore 409201541   Pages       (11.2)
 appstore 1429033973  RunCat      (9.6)
