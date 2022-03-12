@@ -486,9 +486,6 @@ tap rcmdnk/rcmdnkpac
 
 tap yt-dlp/taps
 
-# Other Cask applications
-cask google-photos-backup-and-sync
-
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.10.4)
 appstore 682658836   GarageBand          (10.4.5)
