@@ -157,6 +157,7 @@ brew libnghttp2
 brew libnice
 brew libogg
 brew libomp
+brew libosinfo
 brew libpcap
 brew libpng
 brew libpq
@@ -457,6 +458,7 @@ tap mas-cli/tap
 
 tap onokatio/onokatio
 brew softether-vpnclient
+brew sshpass
 
 tap osx-cross/arm
 
@@ -481,4 +483,4 @@ tap yt-dlp/taps
 appstore 1440147259  AdGuard for Safari  (1.10.4)
 appstore 539883307   LINE                (7.7.0)
 appstore 1429033973  RunCat              (9.6)
-appstore 1475387142  Tailscale           (1.22.1)
+appstore 1475387142  Tailscale           (1.20.4)
