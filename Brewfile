@@ -457,8 +457,6 @@ tap kryptco/tap
 tap mas-cli/tap
 
 tap onokatio/onokatio
-brew radicale
-brew radicale-decsync
 brew softether-vpnclient
 brew sshpass
 
