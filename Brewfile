@@ -373,6 +373,7 @@ tap homebrew/services
 tap homebrew/cask
 cask alacritty
 cask android-platform-tools
+cask betterdiscord-installer
 cask bettertouchtool
 cask bitwarden
 cask calibre
