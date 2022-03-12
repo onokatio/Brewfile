@@ -449,9 +449,6 @@ tap homebrew-ffmpeg/ffmpeg
 tap jeffreywildman/virt-manager
 
 tap knazarov/qemu-virgl
-brew libangle
-brew libepoxy-angle
-brew virglrenderer
 
 tap koekeishiya/formulae
 
