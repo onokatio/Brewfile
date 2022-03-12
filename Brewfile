@@ -248,7 +248,6 @@ brew openldap
 brew openssl@1.1
 brew opus
 brew orc
-brew osinfo-db
 brew p11-kit
 brew p7zip
 brew pango
@@ -448,7 +447,6 @@ tap heroku/brew
 tap homebrew-ffmpeg/ffmpeg
 
 tap jeffreywildman/virt-manager
-brew virt-manager
 
 tap knazarov/qemu-virgl
 brew libangle
