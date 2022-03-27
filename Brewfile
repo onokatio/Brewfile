@@ -53,6 +53,7 @@ brew fio
 brew flac
 brew fltk
 brew fontconfig
+brew fontforge
 brew freetds
 brew freetype
 brew frei0r
@@ -177,12 +178,14 @@ brew libsodium
 brew libsoup
 brew libsoup@2
 brew libsoxr
+brew libspiro
 brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libusb
 brew libusrsctp
@@ -257,6 +260,7 @@ brew php
 brew pigz
 brew pillow
 brew pipenv
+brew pipx
 brew pixman
 brew pkg-config
 brew poppler
@@ -354,6 +358,7 @@ cask displaylink
 cask displaylink-login-extension
 
 tap homebrew/cask-fonts
+cask font-cica
 cask font-hackgen-nerd
 
 tap homebrew/cask-versions
@@ -364,7 +369,6 @@ cask microsoft-edge-dev
 cask safari-technology-preview
 cask slack-beta
 cask thunderbird-beta
-cask visual-studio-code-insiders
 
 tap homebrew/command-not-found
 
@@ -372,10 +376,12 @@ tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
+cask android-messages
 cask android-platform-tools
 cask betterdiscord-installer
 cask bettertouchtool
 cask bitwarden
+cask brewlet
 cask calibre
 cask clockify
 cask cloudflare-warp
@@ -387,16 +393,17 @@ cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask gyazo
+cask hiddenbar
 cask inkscape
 cask iterm2
 cask krisp
 cask macfuse
+cask meetingbar
 cask microsoft-auto-update
 cask microsoft-teams
 cask mumble
 cask netdownloadhelpercoapp
-cask notion-enhanced
+cask notion
 cask obs
 cask onyx
 cask openshot-video-editor
@@ -411,12 +418,14 @@ cask steam
 cask stoplight-studio
 cask syncthing
 cask tor-browser
+cask townwifi
 cask tunnelblick
 cask vagrant
 cask veracrypt
 cask visual-studio-code
 cask vlc
 cask vnc-viewer
+cask vox
 cask vscodium
 cask wine-stable
 cask xbar
@@ -452,6 +461,8 @@ tap jeffreywildman/virt-manager
 tap knazarov/qemu-virgl
 
 tap koekeishiya/formulae
+brew skhd
+brew yabai
 
 tap kryptco/tap
 
@@ -478,10 +489,13 @@ tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
 
+tap sanemat/font
+brew ricty
+
 tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.10.4)
 appstore 539883307   LINE                (7.7.0)
 appstore 1429033973  RunCat              (9.6)
-appstore 1475387142  Tailscale           (1.20.4)
+appstore 1475387142  Tailscale           (1.22.1)
