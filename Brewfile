@@ -17,6 +17,8 @@ brew atk
 brew autoconf
 brew automake
 brew awscli
+brew bash
+brew bash-completion@2
 brew bdw-gc
 brew berkeley-db
 brew bind
@@ -38,6 +40,7 @@ brew curl
 brew dav1d
 brew dbus
 brew dex2jar
+brew diff-so-fancy
 brew docbook
 brew docbook-xsl
 brew docutils
@@ -58,6 +61,7 @@ brew freetds
 brew freetype
 brew frei0r
 brew fribidi
+brew fzy
 brew gawk
 brew gcc
 brew gd
@@ -398,6 +402,7 @@ cask hiddenbar
 cask inkscape
 cask iterm2
 cask krisp
+cask lantern
 cask macfuse
 cask meetingbar
 cask microsoft-auto-update
@@ -434,6 +439,9 @@ cask zoom
 
 tap athrunsun/athruncask
 cask python2
+
+tap b4b4r07/tap
+brew gomi
 
 tap brewsci/base
 
