@@ -355,6 +355,7 @@ cask displaylink
 cask displaylink-login-extension
 
 tap homebrew/cask-fonts
+cask font-cica
 cask font-hackgen-nerd
 
 tap homebrew/cask-versions
@@ -426,6 +427,8 @@ cask zoom
 tap athrunsun/athruncask
 cask python2
 
+tap b4b4r07/tap
+
 tap brewsci/base
 
 tap brewsci/bio
@@ -477,6 +480,8 @@ brew brew-file
 tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
+
+tap sanemat/font
 
 tap yt-dlp/taps
 
