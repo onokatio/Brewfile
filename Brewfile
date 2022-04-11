@@ -43,6 +43,7 @@ brew dex2jar
 brew diff-so-fancy
 brew docbook
 brew docbook-xsl
+brew docker-machine
 brew docutils
 brew double-conversion
 brew ethereum
@@ -373,7 +374,6 @@ cask firefox-nightly
 cask microsoft-edge-dev
 cask safari-technology-preview
 cask slack-beta
-cask thunderbird-beta
 
 tap homebrew/command-not-found
 
@@ -390,6 +390,7 @@ cask brewlet
 cask calibre
 cask clockify
 cask cloudflare-warp
+cask devtoys
 cask discord
 cask docker
 cask element
@@ -411,6 +412,7 @@ cask mumble
 cask netdownloadhelpercoapp
 cask notion
 cask obs
+cask onedrive
 cask onyx
 cask openshot-video-editor
 cask parallels
@@ -423,6 +425,7 @@ cask spotify-now-playing
 cask steam
 cask stoplight-studio
 cask syncthing
+cask thunderbird
 cask tor-browser
 cask townwifi
 cask tunnelblick
@@ -450,6 +453,8 @@ tap brewsci/bio
 tap brewsci/num
 
 tap brewsci/science
+
+tap clintmod/formulas
 
 tap cloudflare/cloudflare
 
@@ -504,8 +509,9 @@ brew ricty
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.10.4)
-appstore 682658836   GarageBand          (10.4.6)
+appstore 1440147259  AdGuard for Safari  (1.11.3)
 appstore 539883307   LINE                (7.7.0)
 appstore 1429033973  RunCat              (9.6)
 appstore 1475387142  Tailscale           (1.22.1)
+
+# Other commands
