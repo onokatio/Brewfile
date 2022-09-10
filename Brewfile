@@ -161,6 +161,7 @@ brew libidn
 brew libidn2
 brew libimagequant
 brew libiscsi
+brew liblinear
 brew liblqr
 brew libmaxminddb
 brew libmetalink
@@ -224,6 +225,7 @@ brew libyaml
 brew libzip
 brew little-cms2
 brew lua
+brew lua@5.3
 brew luajit
 brew luajit-openresty
 brew luv
