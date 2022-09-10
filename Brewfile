@@ -38,6 +38,7 @@ brew curl
 brew dav1d
 brew dbus
 brew dex2jar
+brew diff-so-fancy
 brew docbook
 brew docbook-xsl
 brew docutils
@@ -116,6 +117,7 @@ brew jasper
 brew jbig2dec
 brew jemalloc
 brew jpeg
+brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew json-c
@@ -164,6 +166,7 @@ brew libpq
 brew libpsl
 brew libpthread-stubs
 brew libraqm
+brew libraw
 brew libreplaygain
 brew librist
 brew librsvg
