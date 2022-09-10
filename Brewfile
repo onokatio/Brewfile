@@ -16,15 +16,20 @@ brew assimp
 brew atk
 brew autoconf
 brew automake
+brew aws-iam-authenticator
 brew awscli
+brew bash
+brew bash-completion@2
 brew bdw-gc
 brew berkeley-db
+brew berkeley-db@4
 brew bind
 brew binwalk
 brew brotli
 brew c-ares
 brew ca-certificates
 brew cabextract
+brew caddy
 brew cairo
 brew calicoctl
 brew ccache
@@ -33,6 +38,7 @@ brew cmake
 brew cmocka
 brew cocoapods
 brew coreutils
+brew cowsay
 brew cunit
 brew curl
 brew dav1d
@@ -41,8 +47,10 @@ brew dex2jar
 brew diff-so-fancy
 brew docbook
 brew docbook-xsl
+brew docker-machine
 brew docutils
 brew double-conversion
+brew eksctl
 brew ethereum
 brew exa
 brew faac
@@ -54,10 +62,12 @@ brew fio
 brew flac
 brew fltk
 brew fontconfig
+brew fontforge
 brew freetds
 brew freetype
 brew frei0r
 brew fribidi
+brew fzy
 brew gawk
 brew gcc
 brew gd
@@ -69,6 +79,7 @@ brew ghq
 brew gibo
 brew giflib
 brew git
+brew git-delta
 brew git-lfs
 brew git-open
 brew glib
@@ -85,6 +96,7 @@ brew graphene
 brew graphite2
 brew graphviz
 brew grep
+brew groff
 brew gsettings-desktop-schemas
 brew gst-libav
 brew gst-plugins-bad
@@ -105,6 +117,7 @@ brew htop
 brew httpd
 brew httpie
 brew hunspell
+brew hwloc
 brew icarus-verilog
 brew icu4c
 brew imagemagick
@@ -148,6 +161,7 @@ brew libidn
 brew libidn2
 brew libimagequant
 brew libiscsi
+brew liblinear
 brew liblqr
 brew libmaxminddb
 brew libmetalink
@@ -161,6 +175,7 @@ brew libogg
 brew libomp
 brew libosinfo
 brew libpcap
+brew libplist
 brew libpng
 brew libpq
 brew libpsl
@@ -180,12 +195,14 @@ brew libsodium
 brew libsoup
 brew libsoup@2
 brew libsoxr
+brew libspiro
 brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libusb
 brew libusrsctp
@@ -208,6 +225,8 @@ brew libyaml
 brew libzip
 brew little-cms2
 brew lua
+brew lua@5.3
+brew luajit
 brew luajit-openresty
 brew luv
 brew lz4
@@ -241,6 +260,7 @@ brew nspr
 brew nss
 brew numpy
 brew oniguruma
+brew open-mpi
 brew openblas
 brew opencore-amr
 brew openexr
@@ -249,18 +269,21 @@ brew openjdk@11
 brew openjpeg
 brew openldap
 brew openssl@1.1
+brew openssl@3
 brew opus
 brew orc
 brew osinfo-db
 brew p11-kit
 brew p7zip
 brew pango
+brew payload-dumper-go
 brew pcre
 brew pcre2
 brew php
 brew pigz
 brew pillow
 brew pipenv
+brew pipx
 brew pixman
 brew pkg-config
 brew poppler
@@ -269,6 +292,7 @@ brew portaudio
 brew prettyping
 brew progress
 brew protobuf
+brew psutils
 brew pup
 brew py3cairo
 brew pygobject3
@@ -286,6 +310,7 @@ brew rlwrap
 brew rtmpdump
 brew rubberband
 brew ruby
+brew rustup-init
 brew sdl2
 brew shared-mime-info
 brew six
@@ -314,6 +339,7 @@ brew tmux
 brew tor
 brew translate-shell
 brew tree-sitter
+brew uchardet
 brew unar
 brew unbound
 brew unibilium
@@ -325,6 +351,8 @@ brew utf8proc
 brew vala
 brew vde
 brew vte3
+brew wasmer
+brew wasmtime
 brew watch
 brew webp
 brew wget
@@ -334,6 +362,7 @@ brew winetricks
 brew wireshark
 brew x264
 brew x265
+brew xml2
 brew xmlto
 brew xorgproto
 brew xvid
@@ -345,6 +374,7 @@ brew zeromq
 brew zimg
 brew zip
 brew zlib
+brew zopfli
 brew zsh
 brew zstd
 
@@ -356,6 +386,7 @@ tap homebrew/cask-drivers
 cask asix-ax88179
 cask displaylink
 cask displaylink-login-extension
+cask yubico-authenticator
 
 tap homebrew/cask-fonts
 cask font-cica
@@ -375,47 +406,56 @@ tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
+cask alfred
 cask android-platform-tools
+cask batteries
 cask betterdiscord-installer
+cask betterdummy
 cask bettertouchtool
 cask bitwarden
+cask brewlet
 cask calibre
 cask clockify
 cask cloudflare-warp
+cask devtoys
 cask discord
 cask docker
 cask element
 cask firefox
-cask gimp
+cask gather
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask gyazo
+cask hiddenbar
 cask inkscape
 cask iterm2
 cask krisp
 cask macfuse
+cask meetingbar
 cask microsoft-auto-update
 cask microsoft-teams
-cask mumble
 cask netdownloadhelpercoapp
+cask nextcloud
+cask nordvpn
+cask notion
 cask notion-enhanced
 cask obs
-cask onyx
+cask onedrive
 cask openshot-video-editor
+cask orangedrangon-android-messages
 cask parallels
-cask processing
 cask protonmail-bridge
 cask raspberry-pi-imager
-cask seaglass
+cask silicon
 cask skype
-cask spotify-now-playing
 cask steam
 cask stoplight-studio
+cask superproductivity
+cask swiftbar
 cask syncthing
 cask thunderbird
-cask topnotch
 cask tor-browser
+cask townwifi
 cask tunnelblick
 cask vagrant
 cask veracrypt
@@ -423,14 +463,14 @@ cask visual-studio-code
 cask vlc
 cask vnc-viewer
 cask vscodium
+cask warp
 cask wine-stable
-cask xbar
 cask zoom
 
 tap athrunsun/athruncask
-cask python2
 
 tap b4b4r07/tap
+brew gomi
 
 tap brewsci/base
 
@@ -439,6 +479,8 @@ tap brewsci/bio
 tap brewsci/num
 
 tap brewsci/science
+
+tap clintmod/formulas
 
 tap cloudflare/cloudflare
 
@@ -459,6 +501,7 @@ tap jeffreywildman/virt-manager
 tap knazarov/qemu-virgl
 
 tap koekeishiya/formulae
+brew skhd
 
 tap kryptco/tap
 
@@ -466,10 +509,9 @@ tap mas-cli/tap
 
 tap onokatio/onokatio
 brew softether-vpnclient
+brew sshpass
 
 tap osx-cross/arm
-
-tap osx-cross/avr
 
 tap osx-cross/openocd
 
@@ -485,12 +527,13 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
+brew ricty
 
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.10.4)
-appstore 682658836   GarageBand          (10.4.6)
-appstore 539883307   LINE                (7.7.0)
-appstore 1429033973  RunCat              (9.6)
-appstore 1475387142  Tailscale           (1.22.1)
+appstore 1440147259  AdGuard for Safari  (1.11.6)
+appstore 539883307   LINE                (7.10.2)
+appstore 1429033973  RunCat              (9.7)
+appstore 1448648921  Seashore            (3.7)
+appstore 1475387142  Tailscale           (1.28.0)
