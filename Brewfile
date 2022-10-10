@@ -111,6 +111,7 @@ brew gts
 brew guile
 brew harfbuzz
 brew hicolor-icon-theme
+brew highway
 brew hiredis
 brew htmlq
 brew htop
@@ -239,6 +240,7 @@ brew mecab
 brew mecab-ipadic
 brew meson
 brew moreutils
+brew mosh
 brew mpdecimal
 brew mpfr
 brew msgpack
@@ -246,6 +248,7 @@ brew mtr
 brew musepack
 brew mysql
 brew mysql@5.7
+brew nasm
 brew ncurses
 brew neovim
 brew netpbm
@@ -299,6 +302,7 @@ brew pygobject3
 brew python-yq
 brew python@3.10
 brew python@3.9
+brew pyyaml
 brew qemu
 brew qt
 brew rav1e
@@ -311,6 +315,7 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew rustup-init
+brew sccache
 brew sdl2
 brew shared-mime-info
 brew six
@@ -366,6 +371,7 @@ brew xml2
 brew xmlto
 brew xorgproto
 brew xvid
+brew xxh
 brew xz
 brew yajl
 brew yarn
@@ -421,6 +427,7 @@ cask devtoys
 cask discord
 cask docker
 cask element
+cask ferdium
 cask firefox
 cask gather
 cask gimp
@@ -542,8 +549,10 @@ tap sanemat/font
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.10.4)
+appstore 1440147259  AdGuard for Safari  (1.11.6)
 appstore 682658836   GarageBand          (10.4.6)
-appstore 539883307   LINE                (7.7.0)
-appstore 1429033973  RunCat              (9.6)
-appstore 1475387142  Tailscale           (1.22.1)
+appstore 408981434   iMovie              (10.3.4)
+appstore 539883307   LINE                (7.10.2)
+appstore 1429033973  RunCat              (9.7)
+appstore 1448648921  Seashore            (3.7)
+appstore 1475387142  Tailscale           (1.28.0)
