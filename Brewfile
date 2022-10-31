@@ -464,7 +464,6 @@ cask notion
 cask notion-enhanced
 cask obs
 cask onedrive
-cask onyx
 cask openshot-video-editor
 cask orangedrangon-android-messages
 cask parallels
