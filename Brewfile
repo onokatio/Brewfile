@@ -443,9 +443,11 @@ cask element
 cask ferdium
 cask firefox
 cask gather
+cask gimp
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
+cask gyazo
 cask hiddenbar
 cask inkscape
 cask iterm2
@@ -454,6 +456,7 @@ cask macfuse
 cask meetingbar
 cask microsoft-auto-update
 cask microsoft-teams
+cask mumble
 cask netdownloadhelpercoapp
 cask nextcloud
 cask nordvpn
@@ -461,19 +464,24 @@ cask notion
 cask notion-enhanced
 cask obs
 cask onedrive
+cask onyx
 cask openshot-video-editor
 cask orangedrangon-android-messages
 cask parallels
+cask processing
 cask protonmail-bridge
 cask raspberry-pi-imager
+cask seaglass
 cask silicon
 cask skype
+cask spotify-now-playing
 cask steam
 cask stoplight-studio
 cask superproductivity
 cask swiftbar
 cask syncthing
 cask thunderbird
+cask topnotch
 cask tor-browser
 cask townwifi
 cask tunnelblick
@@ -485,6 +493,7 @@ cask vnc-viewer
 cask vscodium
 cask warp
 cask wine-stable
+cask xbar
 cask zoom
 
 tap athrunsun/athruncask
@@ -530,9 +539,10 @@ tap mas-cli/tap
 
 tap onokatio/onokatio
 brew softether-vpnclient
-brew sshpass
 
 tap osx-cross/arm
+
+tap osx-cross/avr
 
 tap osx-cross/openocd
 
@@ -548,15 +558,15 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
-brew ricty
 
 tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.11.7)
 appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.12.1)
 appstore 946680495   MARKETSPEED         (2.10.1)
+appstore 682658836   GarageBand          (10.4.6)
+appstore 539883307   LINE                (7.10.2)
 appstore 1429033973  RunCat              (9.7)
 appstore 1448648921  Seashore            (3.10)
 appstore 1475387142  Tailscale           (1.32.0)
