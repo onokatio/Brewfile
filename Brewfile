@@ -538,6 +538,7 @@ tap mas-cli/tap
 
 tap onokatio/onokatio
 brew softether-vpnclient
+brew sshpass
 
 tap osx-cross/arm
 
@@ -557,15 +558,16 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
+brew ricty
 
 tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.11.7)
-appstore 408981434   iMovie              (10.3.5)
-appstore 946680495   MARKETSPEED         (2.10.1)
 appstore 682658836   GarageBand          (10.4.6)
-appstore 539883307   LINE                (7.10.2)
+appstore 408981434   iMovie              (10.3.5)
+appstore 539883307   LINE                (7.12.1)
+appstore 946680495   MARKETSPEED         (3.0.0)
 appstore 1429033973  RunCat              (9.7)
 appstore 1448648921  Seashore            (3.10)
 appstore 1475387142  Tailscale           (1.32.0)
