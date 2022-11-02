@@ -34,6 +34,7 @@ brew cairo
 brew calicoctl
 brew ccache
 brew cjson
+brew clisp
 brew cmake
 brew cmocka
 brew cocoapods
@@ -84,6 +85,7 @@ brew git-lfs
 brew git-open
 brew glib
 brew glib-networking
+brew gmailctl
 brew gmp
 brew gnu-getopt
 brew gnu-sed
@@ -189,6 +191,7 @@ brew librsvg
 brew libsamplerate
 brew libscrypt
 brew libshout
+brew libsigsegv
 brew libslirp
 brew libsmi
 brew libsndfile
@@ -220,6 +223,7 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxft
 brew libxml2
 brew libxrender
 brew libyaml
@@ -239,6 +243,7 @@ brew md4c
 brew mecab
 brew mecab-ipadic
 brew meson
+brew mold
 brew moreutils
 brew mosh
 brew mpdecimal
@@ -282,6 +287,7 @@ brew pango
 brew payload-dumper-go
 brew pcre
 brew pcre2
+brew perl
 brew php
 brew pigz
 brew pillow
@@ -289,15 +295,19 @@ brew pipenv
 brew pipx
 brew pixman
 brew pkg-config
+brew plotutils
 brew poppler
 brew popt
 brew portaudio
+brew potrace
 brew prettyping
 brew progress
 brew protobuf
+brew pstoedit
 brew psutils
 brew pup
 brew py3cairo
+brew pygments
 brew pygobject3
 brew python-yq
 brew python@3.10
@@ -333,6 +343,7 @@ brew ssdeep
 brew stow
 brew swi-prolog
 brew taglib
+brew tbb
 brew tcl-tk
 brew telnet
 brew terraform
@@ -390,6 +401,7 @@ tap homebrew/bundle
 
 tap homebrew/cask-drivers
 cask asix-ax88179
+cask canon-mf-printer
 cask displaylink
 cask displaylink-login-extension
 cask yubico-authenticator
@@ -414,6 +426,7 @@ tap homebrew/cask
 cask alacritty
 cask alfred
 cask android-platform-tools
+cask basictex
 cask batteries
 cask betterdiscord-installer
 cask betterdummy
@@ -451,7 +464,6 @@ cask notion
 cask notion-enhanced
 cask obs
 cask onedrive
-cask onyx
 cask openshot-video-editor
 cask orangedrangon-android-messages
 cask parallels
@@ -526,6 +538,7 @@ tap mas-cli/tap
 
 tap onokatio/onokatio
 brew softether-vpnclient
+brew sshpass
 
 tap osx-cross/arm
 
@@ -545,14 +558,16 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
+brew ricty
 
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.6)
+appstore 1440147259  AdGuard for Safari  (1.11.7)
 appstore 682658836   GarageBand          (10.4.6)
-appstore 408981434   iMovie              (10.3.4)
-appstore 539883307   LINE                (7.10.2)
+appstore 408981434   iMovie              (10.3.5)
+appstore 539883307   LINE                (7.12.1)
+appstore 946680495   MARKETSPEED         (3.0.0)
 appstore 1429033973  RunCat              (9.7)
-appstore 1448648921  Seashore            (3.7)
-appstore 1475387142  Tailscale           (1.28.0)
+appstore 1448648921  Seashore            (3.10)
+appstore 1475387142  Tailscale           (1.32.0)
