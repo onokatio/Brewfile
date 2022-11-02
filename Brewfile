@@ -12,7 +12,6 @@ brew aria2
 brew arp-scan
 brew arping
 brew aspell
-brew assimp
 brew atk
 brew autoconf
 brew automake
@@ -22,7 +21,6 @@ brew bash
 brew bash-completion@2
 brew bdw-gc
 brew berkeley-db@4
-brew bind
 brew binwalk
 brew brotli
 brew c-ares
@@ -30,12 +28,10 @@ brew ca-certificates
 brew cabextract
 brew caddy
 brew cairo
-brew calicoctl
 brew ccache
 brew cjson
 brew cmake
 brew cmocka
-brew cocoapods
 brew coreutils
 brew cowsay
 brew cunit
@@ -49,7 +45,6 @@ brew docbook-xsl
 brew docker-machine
 brew docutils
 brew eksctl
-brew ethereum
 brew exa
 brew faac
 brew faad2
@@ -89,7 +84,6 @@ brew gnu-tar
 brew gnutls
 brew go
 brew gobject-introspection
-brew gptfdisk
 brew graphene
 brew graphite2
 brew graphviz
@@ -114,7 +108,6 @@ brew htop
 brew httpd
 brew httpie
 brew hwloc
-brew icarus-verilog
 brew icu4c
 brew imagemagick
 brew imath
@@ -195,7 +188,6 @@ brew libusb
 brew libusrsctp
 brew libuv
 brew libvidstab
-brew libvirt
 brew libvmaf
 brew libvorbis
 brew libvpx
@@ -231,7 +223,6 @@ brew mtr
 brew musepack
 brew mysql
 brew mysql@5.7
-brew nasm
 brew ncurses
 brew neovim
 brew netpbm
@@ -257,7 +248,6 @@ brew openssl@1.1
 brew openssl@3
 brew opus
 brew orc
-brew osinfo-db
 brew p11-kit
 brew p7zip
 brew pango
@@ -281,12 +271,10 @@ brew psutils
 brew pup
 brew py3cairo
 brew pygments
-brew pygobject3
 brew python-yq
 brew python@3.10
 brew python@3.9
 brew pyyaml
-brew qemu
 brew rav1e
 brew rclone
 brew readline
@@ -304,15 +292,12 @@ brew shared-mime-info
 brew six
 brew snappy
 brew speex
-brew sphinx
 brew sphinx-doc
-brew spotifyd
 brew sqlite
 brew srt
 brew srtp
 brew ssdeep
 brew stow
-brew swi-prolog
 brew taglib
 brew tbb
 brew tcl-tk
@@ -342,7 +327,6 @@ brew webp
 brew wget
 brew whalebrew
 brew whois
-brew winetricks
 brew wireshark
 brew woff2
 brew x264
@@ -531,7 +515,6 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
-brew ricty
 
 tap yt-dlp/taps
 
