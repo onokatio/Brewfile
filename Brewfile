@@ -54,7 +54,6 @@ brew fio
 brew flac
 brew fltk
 brew fontconfig
-brew fontforge
 brew freetds
 brew freetype
 brew frei0r
@@ -87,7 +86,6 @@ brew gobject-introspection
 brew graphene
 brew graphite2
 brew graphviz
-brew grep
 brew groff
 brew gsettings-desktop-schemas
 brew gst-libav
@@ -120,7 +118,6 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
-brew json-c
 brew kind
 brew krb5
 brew kubectx
@@ -145,7 +142,6 @@ brew libheif
 brew libidn
 brew libidn2
 brew libimagequant
-brew libiscsi
 brew liblinear
 brew liblqr
 brew libmaxminddb
@@ -169,22 +165,18 @@ brew librsvg
 brew libsamplerate
 brew libscrypt
 brew libshout
-brew libslirp
 brew libsmi
 brew libsndfile
 brew libsodium
 brew libsoup
 brew libsoxr
-brew libspiro
 brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
-brew libuninameslist
 brew libunistring
-brew libusb
 brew libusrsctp
 brew libuv
 brew libvidstab
@@ -222,7 +214,6 @@ brew msgpack
 brew mtr
 brew musepack
 brew mysql
-brew mysql@5.7
 brew ncurses
 brew neovim
 brew netpbm
@@ -262,14 +253,11 @@ brew pipx
 brew pixman
 brew pkg-config
 brew poppler
-brew popt
-brew portaudio
 brew prettyping
 brew progress
 brew protobuf
 brew psutils
 brew pup
-brew py3cairo
 brew pygments
 brew python-yq
 brew python@3.10
@@ -316,10 +304,8 @@ brew unar
 brew unbound
 brew unibilium
 brew unixodbc
-brew unzip
 brew utf8proc
 brew vala
-brew vde
 brew wasmer
 brew wasmtime
 brew watch
@@ -337,7 +323,6 @@ brew xorgproto
 brew xvid
 brew xxh
 brew xz
-brew yajl
 brew yarn
 brew yt-dlp
 brew zeromq
