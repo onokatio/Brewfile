@@ -545,6 +545,7 @@ tap michaeleisel/zld
 
 tap onokatio/onokatio
 brew softether-vpnclient
+brew sshpass
 
 tap osx-cross/arm
 
