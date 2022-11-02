@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew adwaita-icon-theme
 brew ansible
 brew anyenv
 brew aom
@@ -22,7 +21,6 @@ brew awscli
 brew bash
 brew bash-completion@2
 brew bdw-gc
-brew berkeley-db
 brew berkeley-db@4
 brew bind
 brew binwalk
@@ -35,7 +33,6 @@ brew cairo
 brew calicoctl
 brew ccache
 brew cjson
-brew clisp
 brew cmake
 brew cmocka
 brew cocoapods
@@ -51,14 +48,12 @@ brew docbook
 brew docbook-xsl
 brew docker-machine
 brew docutils
-brew double-conversion
 brew eksctl
 brew ethereum
 brew exa
 brew faac
 brew faad2
 brew ffmpeg
-brew ffmpeg@4
 brew findutils
 brew fio
 brew flac
@@ -108,8 +103,6 @@ brew gst-plugins-good
 brew gst-plugins-ugly
 brew gstreamer
 brew gtk+3
-brew gtk-vnc
-brew gtksourceview4
 brew gts
 brew guile
 brew harfbuzz
@@ -120,25 +113,21 @@ brew htmlq
 brew htop
 brew httpd
 brew httpie
-brew hunspell
 brew hwloc
 brew icarus-verilog
 brew icu4c
 brew imagemagick
 brew imath
-brew intltool
 brew ipcalc
 brew isl
 brew jansson
 brew jasper
 brew jbig2dec
-brew jemalloc
 brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew json-c
-brew json-glib
 brew kind
 brew krb5
 brew kubectx
@@ -154,7 +143,6 @@ brew libcbor
 brew libcuefile
 brew libde265
 brew libepoxy
-brew libev
 brew libevent
 brew libffi
 brew libfido2
@@ -168,16 +156,12 @@ brew libiscsi
 brew liblinear
 brew liblqr
 brew libmaxminddb
-brew libmetalink
-brew libmms
-brew libmng
 brew libmpc
 brew libnet
 brew libnghttp2
 brew libnice
 brew libogg
 brew libomp
-brew libosinfo
 brew libpcap
 brew libplist
 brew libpng
@@ -192,13 +176,11 @@ brew librsvg
 brew libsamplerate
 brew libscrypt
 brew libshout
-brew libsigsegv
 brew libslirp
 brew libsmi
 brew libsndfile
 brew libsodium
 brew libsoup
-brew libsoup@2
 brew libsoxr
 brew libspiro
 brew libssh
@@ -214,7 +196,6 @@ brew libusrsctp
 brew libuv
 brew libvidstab
 brew libvirt
-brew libvirt-glib
 brew libvmaf
 brew libvorbis
 brew libvpx
@@ -224,8 +205,6 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
-brew libxft
-brew libxml2
 brew libxrender
 brew libyaml
 brew libzip
@@ -233,14 +212,12 @@ brew little-cms2
 brew lua
 brew lua@5.3
 brew luajit
-brew luajit-openresty
 brew luv
 brew lz4
 brew lzo
 brew m4
 brew mas
 brew mbedtls
-brew md4c
 brew mecab
 brew mecab-ipadic
 brew meson
@@ -259,7 +236,6 @@ brew ncurses
 brew neovim
 brew netpbm
 brew nettle
-brew nghttp2
 brew ninja
 brew nmap
 brew node
@@ -288,7 +264,6 @@ brew pango
 brew payload-dumper-go
 brew pcre
 brew pcre2
-brew perl
 brew php
 brew pigz
 brew pillow
@@ -296,15 +271,12 @@ brew pipenv
 brew pipx
 brew pixman
 brew pkg-config
-brew plotutils
 brew poppler
 brew popt
 brew portaudio
-brew potrace
 brew prettyping
 brew progress
 brew protobuf
-brew pstoedit
 brew psutils
 brew pup
 brew py3cairo
@@ -315,7 +287,6 @@ brew python@3.10
 brew python@3.9
 brew pyyaml
 brew qemu
-brew qt
 brew rav1e
 brew rclone
 brew readline
@@ -335,8 +306,6 @@ brew snappy
 brew speex
 brew sphinx
 brew sphinx-doc
-brew spice-gtk
-brew spice-protocol
 brew spotifyd
 brew sqlite
 brew srt
@@ -363,12 +332,9 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
-brew usb.ids
-brew usbredir
 brew utf8proc
 brew vala
 brew vde
-brew vte3
 brew wasmer
 brew wasmtime
 brew watch
