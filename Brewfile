@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew adwaita-icon-theme
+brew ansible
 brew anyenv
 brew aom
 brew apr
@@ -316,6 +317,7 @@ brew pyyaml
 brew qemu
 brew qt
 brew rav1e
+brew rclone
 brew readline
 brew reattach-to-user-namespace
 brew repo
@@ -376,6 +378,7 @@ brew whalebrew
 brew whois
 brew winetricks
 brew wireshark
+brew woff2
 brew x264
 brew x265
 brew xml2
@@ -451,6 +454,7 @@ cask gyazo
 cask hiddenbar
 cask inkscape
 cask iterm2
+cask kiwix
 cask krisp
 cask macfuse
 cask meetingbar
@@ -464,6 +468,7 @@ cask notion
 cask notion-enhanced
 cask obs
 cask onedrive
+cask onyx
 cask openshot-video-editor
 cask orangedrangon-android-messages
 cask parallels
@@ -536,9 +541,10 @@ tap kryptco/tap
 
 tap mas-cli/tap
 
+tap michaeleisel/zld
+
 tap onokatio/onokatio
 brew softether-vpnclient
-brew sshpass
 
 tap osx-cross/arm
 
@@ -566,7 +572,7 @@ tap yt-dlp/taps
 appstore 1440147259  AdGuard for Safari  (1.11.7)
 appstore 682658836   GarageBand          (10.4.6)
 appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.12.1)
+appstore 539883307   LINE                (7.13.1)
 appstore 946680495   MARKETSPEED         (3.0.0)
 appstore 1429033973  RunCat              (9.7)
 appstore 1448648921  Seashore            (3.10)
