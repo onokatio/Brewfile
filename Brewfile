@@ -10,17 +10,12 @@ brew arping
 brew automake
 brew awscli
 brew bash-completion@2
-brew berkeley-db@4
 brew binwalk
-brew cabextract
-brew caddy
 brew ccache
+brew cloudflared
 brew cmake
 brew coreutils
-brew cowsay
-brew cunit
 brew curl
-brew dbus
 brew dex2jar
 brew diff-so-fancy
 brew docker-machine
@@ -55,14 +50,12 @@ brew gst-plugins-base
 brew gst-plugins-good
 brew gst-plugins-ugly
 brew harfbuzz
-brew htmlq
 brew htop
 brew httpd
 brew httpie
 brew imagemagick
 brew ipcalc
 brew jq
-brew kind
 brew kubectx
 brew kubernetes-cli
 brew libplist
@@ -70,8 +63,6 @@ brew libraqm
 brew librsvg
 brew libsoup
 brew mas
-brew mecab
-brew mecab-ipadic
 brew meson
 brew mold
 brew moreutils
@@ -95,7 +86,6 @@ brew pipenv
 brew pipx
 brew pixman
 brew pkg-config
-brew poppler
 brew prettyping
 brew progress
 brew pup
@@ -113,7 +103,6 @@ brew sphinx-doc
 brew stow
 brew telnet
 brew terraform
-brew thefuck
 brew tmux
 brew tor
 brew translate-shell
@@ -152,7 +141,7 @@ cask font-hackgen-nerd
 
 tap homebrew/cask-versions
 cask discord-canary
-cask firefox-developer-edition
+cask discord-ptb
 cask firefox-nightly
 cask microsoft-edge-dev
 cask safari-technology-preview
