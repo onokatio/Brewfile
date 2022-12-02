@@ -41,7 +41,6 @@ brew gnu-sed
 brew gnu-tar
 brew go
 brew gobject-introspection
-brew graphviz
 brew groff
 brew gsettings-desktop-schemas
 brew gst-libav
@@ -107,7 +106,6 @@ brew tmux
 brew tor
 brew translate-shell
 brew unar
-brew vala
 brew wasmer
 brew wasmtime
 brew watch
@@ -132,7 +130,6 @@ tap homebrew/cask-drivers
 cask asix-ax88179
 cask canon-mf-printer
 cask displaylink
-cask displaylink-login-extension
 cask yubico-authenticator
 
 tap homebrew/cask-fonts
@@ -200,6 +197,7 @@ cask orangedrangon-android-messages
 cask parallels
 cask processing
 cask protonmail-bridge
+cask protonvpn
 cask raspberry-pi-imager
 cask seaglass
 cask silicon
@@ -295,11 +293,10 @@ tap sanemat/font
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.7)
-appstore 682658836   GarageBand          (10.4.7)
-appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.13.2)
-appstore 946680495   MARKETSPEED         (3.0.1)
-appstore 1429033973  RunCat              (9.7)
-appstore 1448648921  Seashore            (3.10)
-appstore 1475387142  Tailscale           (1.32.2)
+appstore 682658836   GarageBand   (10.4.7)
+appstore 408981434   iMovie       (10.3.5)
+appstore 539883307   LINE         (7.13.2)
+appstore 946680495   MARKETSPEED  (3.0.1)
+appstore 1429033973  RunCat       (9.7)
+appstore 1448648921  Seashore     (3.10)
+appstore 1475387142  Tailscale    (1.32.3)
