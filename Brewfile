@@ -183,7 +183,6 @@ cask macfuse
 cask meetingbar
 cask microsoft-auto-update
 cask microsoft-teams
-cask mumble
 cask netdownloadhelpercoapp
 cask nextcloud
 cask nordvpn
@@ -199,7 +198,6 @@ cask processing
 cask protonmail-bridge
 cask protonvpn
 cask raspberry-pi-imager
-cask seaglass
 cask silicon
 cask skype
 cask spotify-now-playing
@@ -225,7 +223,6 @@ cask xbar
 cask zoom
 
 tap athrunsun/athruncask
-cask python2
 
 tap b4b4r07/tap
 brew gomi
