@@ -130,6 +130,7 @@ tap homebrew/cask-drivers
 cask asix-ax88179
 cask canon-mf-printer
 cask displaylink
+cask logitech-unifying
 cask yubico-authenticator
 
 tap homebrew/cask-fonts
@@ -139,6 +140,7 @@ cask font-hackgen-nerd
 tap homebrew/cask-versions
 cask discord-canary
 cask discord-ptb
+cask firefox-developer-edition
 cask firefox-nightly
 cask microsoft-edge-dev
 cask safari-technology-preview
