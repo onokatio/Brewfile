@@ -71,8 +71,6 @@ brew mysql
 brew neovim
 brew ninja
 brew nmap
-brew node
-brew nodenv
 brew open-mpi
 brew openjdk
 brew openjdk@11
@@ -106,6 +104,7 @@ brew tmux
 brew tor
 brew translate-shell
 brew unar
+brew volta
 brew wasmer
 brew wasmtime
 brew watch
@@ -116,7 +115,6 @@ brew wireshark
 brew woff2
 brew xml2
 brew xxh
-brew yarn
 brew yt-dlp
 brew zip
 brew zlib
@@ -298,5 +296,5 @@ appstore 408981434   iMovie              (10.3.5)
 appstore 539883307   LINE                (7.14.1)
 appstore 946680495   MARKETSPEED         (3.0.1)
 appstore 1429033973  RunCat              (9.7)
-appstore 1448648921  Seashore            (3.12)
+appstore 1448648921  Seashore            (3.13)
 appstore 1475387142  Tailscale           (1.34.0)
