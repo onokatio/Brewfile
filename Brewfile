@@ -24,7 +24,6 @@ brew exa
 brew ffmpeg
 brew findutils
 brew fio
-brew fltk
 brew fzy
 brew gcc
 brew ghostscript
@@ -41,16 +40,9 @@ brew gnu-sed
 brew gnu-tar
 brew go
 brew gobject-introspection
-brew groff
 brew gsettings-desktop-schemas
-brew gst-libav
-brew gst-plugins-bad
-brew gst-plugins-base
-brew gst-plugins-good
-brew gst-plugins-ugly
 brew harfbuzz
 brew htop
-brew httpd
 brew httpie
 brew imagemagick
 brew ipcalc
@@ -59,7 +51,6 @@ brew kubectx
 brew kubernetes-cli
 brew libplist
 brew libraqm
-brew librsvg
 brew libsoup
 brew mas
 brew meson
@@ -96,13 +87,11 @@ brew ripgrep
 brew ruby
 brew rustup-init
 brew sccache
-brew sphinx-doc
 brew stow
 brew telnet
 brew terraform
 brew tmux
 brew tor
-brew translate-shell
 brew unar
 brew volta
 brew wasmer
@@ -111,9 +100,7 @@ brew watch
 brew wget
 brew whalebrew
 brew whois
-brew wireshark
 brew woff2
-brew xml2
 brew xxh
 brew yt-dlp
 brew zip
@@ -290,7 +277,7 @@ tap sanemat/font
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.8)
+appstore 1440147259  AdGuard for Safari  (1.11.9)
 appstore 682658836   GarageBand          (10.4.7)
 appstore 408981434   iMovie              (10.3.5)
 appstore 539883307   LINE                (7.14.1)
