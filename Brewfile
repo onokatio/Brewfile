@@ -254,6 +254,9 @@ tap rcmdnk/rcmdnkpac
 
 tap sanemat/font
 
+tap sh0nk/tap
+brew man-japanese
+
 tap yt-dlp/taps
 
 # App Store applications
