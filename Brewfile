@@ -3,7 +3,6 @@
 
 tap homebrew/core
 brew ansible
-brew anyenv
 brew aria2
 brew arp-scan
 brew arping
@@ -20,7 +19,6 @@ brew dex2jar
 brew diff-so-fancy
 brew docker-machine
 brew eksctl
-brew exa
 brew ffmpeg
 brew findutils
 brew fio
@@ -54,7 +52,6 @@ brew libplist
 brew libraqm
 brew libsoup
 brew mas
-brew meson
 brew mold
 brew moreutils
 brew mosh
@@ -83,7 +80,6 @@ brew python@3.10
 brew python@3.9
 brew rclone
 brew reattach-to-user-namespace
-brew repo
 brew ripgrep
 brew ruby
 brew rustup-init
@@ -130,6 +126,7 @@ cask firefox-developer-edition
 cask firefox-nightly
 cask safari-technology-preview
 cask slack-beta
+cask visual-studio-code-insiders
 
 tap homebrew/command-not-found
 
@@ -147,6 +144,7 @@ cask bitwarden
 cask calibre
 cask clockify
 cask cloudflare-warp
+cask cron
 cask discord
 cask docker
 cask element
@@ -192,7 +190,6 @@ cask zoom
 tap athrunsun/athruncask
 
 tap b4b4r07/tap
-brew gomi
 
 tap brewsci/base
 
