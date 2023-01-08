@@ -37,7 +37,6 @@ brew gnu-sed
 brew gnu-tar
 brew go
 brew gobject-introspection
-brew graphviz
 brew gsettings-desktop-schemas
 brew harfbuzz
 brew htop
@@ -63,7 +62,6 @@ brew open-mpi
 brew openjdk
 brew openjdk@11
 brew openssl@3
-brew pango
 brew payload-dumper-go
 brew php
 brew pigz
@@ -86,7 +84,6 @@ brew stow
 brew telnet
 brew terraform
 brew tmux
-brew tor
 brew unar
 brew volta
 brew wasmer
@@ -95,7 +92,6 @@ brew watch
 brew wget
 brew whalebrew
 brew whois
-brew woff2
 brew xxh
 brew yt-dlp
 brew zip
@@ -200,7 +196,6 @@ tap clintmod/formulas
 tap cloudflare/cloudflare
 
 tap cmacrae/formulae
-brew spacebar
 
 tap ebc-2in2crc/zlibcmd
 brew zlibcmd
