@@ -21,7 +21,6 @@ brew docker-machine
 brew eksctl
 brew ffmpeg
 brew findutils
-brew fio
 brew fzy
 brew gcc
 brew ghostscript
@@ -78,7 +77,6 @@ brew pup
 brew python-yq
 brew python@3.10
 brew python@3.9
-brew rclone
 brew reattach-to-user-namespace
 brew ripgrep
 brew ruby
@@ -125,7 +123,6 @@ cask discord-ptb
 cask firefox-developer-edition
 cask firefox-nightly
 cask safari-technology-preview
-cask slack-beta
 cask visual-studio-code-insiders
 
 tap homebrew/command-not-found
@@ -180,7 +177,6 @@ cask syncthing
 cask thunderbird
 cask tor-browser
 cask vagrant
-cask visual-studio-code
 cask vlc
 cask vnc-viewer
 cask wine-stable
@@ -210,6 +206,9 @@ tap ebc-2in2crc/zlibcmd
 brew zlibcmd
 
 tap ethereum/ethereum
+
+tap gromgit/fuse
+brew rclone-mac
 
 tap heroku/brew
 
@@ -257,7 +256,7 @@ brew man-japanese
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.9)
+appstore 1440147259  AdGuard for Safari  (1.11.10)
 appstore 682658836   GarageBand          (10.4.7)
 appstore 408981434   iMovie              (10.3.5)
 appstore 539883307   LINE                (7.14.1)
