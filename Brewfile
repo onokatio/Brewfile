@@ -46,7 +46,6 @@ brew ipcalc
 brew jq
 brew kubectx
 brew kubernetes-cli
-brew libplist
 brew libraqm
 brew libsoup
 brew mas
@@ -56,11 +55,8 @@ brew mosh
 brew mtr
 brew mysql
 brew neovim
-brew ninja
 brew nmap
-brew open-mpi
 brew openjdk
-brew openjdk@11
 brew openssl@3
 brew payload-dumper-go
 brew php
