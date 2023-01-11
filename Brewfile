@@ -110,12 +110,13 @@ cask font-cica
 cask font-hackgen-nerd
 
 tap homebrew/cask-versions
-cask discord-canary
 cask discord-ptb
 cask firefox-developer-edition
 cask firefox-nightly
+cask obs-beta
 cask safari-technology-preview
 cask visual-studio-code-insiders
+cask wine-staging
 
 tap homebrew/command-not-found
 
@@ -129,14 +130,11 @@ cask basictex
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
-cask bitwarden
 cask calibre
-cask clockify
 cask cloudflare-warp
 cask cron
 cask discord
 cask docker
-cask element
 cask ferdium
 cask firefox
 cask gimp
@@ -147,12 +145,12 @@ cask hiddenbar
 cask kiwix
 cask krisp
 cask macfuse
+cask macupdater
 cask microsoft-auto-update
 cask microsoft-teams
 cask netdownloadhelpercoapp
 cask nextcloud
 cask notion-enhanced
-cask obs
 cask onedrive
 cask onyx
 cask openshot-video-editor
@@ -161,7 +159,6 @@ cask protonvpn
 cask raspberry-pi-imager
 cask silicon
 cask skype
-cask spotify-now-playing
 cask steam
 cask superproductivity
 cask swiftbar
@@ -171,7 +168,6 @@ cask tor-browser
 cask vagrant
 cask vlc
 cask vnc-viewer
-cask wine-stable
 cask xbar
 cask zoom
 
@@ -254,4 +250,4 @@ appstore 539883307   LINE                (7.14.1)
 appstore 946680495   MARKETSPEED         (3.0.1)
 appstore 1429033973  RunCat              (9.7)
 appstore 1448648921  Seashore            (3.19)
-appstore 1475387142  Tailscale           (1.34.1)
+appstore 1475387142  Tailscale           (1.34.2)
