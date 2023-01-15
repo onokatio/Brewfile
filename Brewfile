@@ -56,7 +56,6 @@ brew php
 brew pigz
 brew pipenv
 brew pipx
-brew pkg-config
 brew prettyping
 brew progress
 brew pup
