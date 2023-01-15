@@ -1,6 +1,87 @@
 
 # tap repositories and their packages
 
+tap homebrew/core
+brew ansible
+brew aria2
+brew arp-scan
+brew arping
+brew automake
+brew awscli
+brew bash-completion@2
+brew binwalk
+brew ccache
+brew cmake
+brew coreutils
+brew curl
+brew dex2jar
+brew diff-so-fancy
+brew docker-machine
+brew eksctl
+brew ffmpeg
+brew findutils
+brew fzy
+brew gcc
+brew ghq
+brew gibo
+brew git
+brew git-delta
+brew git-lfs
+brew git-open
+brew glib
+brew gmailctl
+brew gnu-sed
+brew gnu-tar
+brew htop
+brew httpie
+brew imagemagick
+brew ipcalc
+brew jq
+brew kubectx
+brew kubernetes-cli
+brew mas
+brew mold
+brew moreutils
+brew mosh
+brew mtr
+brew mysql
+brew neovim
+brew nmap
+brew openjdk
+brew openssl@3
+brew payload-dumper-go
+brew php
+brew pigz
+brew pipenv
+brew pipx
+brew prettyping
+brew progress
+brew pup
+brew python-yq
+brew python@3.10
+brew python@3.9
+brew reattach-to-user-namespace
+brew ripgrep
+brew ruby
+brew rustup-init
+brew sccache
+brew stow
+brew telnet
+brew terraform
+brew tmux
+brew unar
+brew volta
+brew wasmer
+brew wasmtime
+brew watch
+brew wget
+brew whalebrew
+brew whois
+brew xxh
+brew yt-dlp
+brew zip
+brew zsh
+
 tap homebrew/aliases
 
 tap homebrew/bundle
@@ -44,7 +125,6 @@ tap brewsci/science
 tap clintmod/formulas
 
 tap cloudflare/cloudflare
-brew curl
 
 tap cmacrae/formulae
 
@@ -58,7 +138,6 @@ brew rclone-mac
 tap heroku/brew
 
 tap homebrew-ffmpeg/ffmpeg
-brew ffmpeg
 
 tap jeffreywildman/virt-manager
 
@@ -70,7 +149,6 @@ brew skhd
 tap kryptco/tap
 
 tap mas-cli/tap
-brew mas
 
 tap michaeleisel/zld
 
@@ -96,87 +174,8 @@ tap rcmdnk/rcmdnkpac
 tap sanemat/font
 
 tap sh0nk/tap
-brew man-japanese
 
 tap yt-dlp/taps
-brew yt-dlp
-
-# Other Homebrew packages
-brew ansible
-brew aria2
-brew arp-scan
-brew arping
-brew automake
-brew awscli
-brew bash-completion@2
-brew binwalk
-brew ccache
-brew cmake
-brew coreutils
-brew dex2jar
-brew diff-so-fancy
-brew docker-machine
-brew eksctl
-brew findutils
-brew fzy
-brew gcc
-brew ghq
-brew gibo
-brew git
-brew git-delta
-brew git-lfs
-brew git-open
-brew glib
-brew gmailctl
-brew gnu-sed
-brew gnu-tar
-brew htop
-brew httpie
-brew imagemagick
-brew ipcalc
-brew jq
-brew kubectx
-brew kubernetes-cli
-brew mold
-brew moreutils
-brew mosh
-brew mtr
-brew mysql
-brew neovim
-brew nmap
-brew openjdk
-brew openssl@3
-brew payload-dumper-go
-brew php
-brew pigz
-brew pipenv
-brew pipx
-brew prettyping
-brew progress
-brew pup
-brew python-yq
-brew python@3.10
-brew python@3.9
-brew reattach-to-user-namespace
-brew ripgrep
-brew ruby
-brew rustup-init
-brew sccache
-brew stow
-brew telnet
-brew terraform
-brew tmux
-brew unar
-brew volta
-brew wasmer
-brew wasmtime
-brew watch
-brew wget
-brew whalebrew
-brew whois
-brew xxh
-brew zip
-brew zsh
 
 # Other Cask applications
 cask alacritty
