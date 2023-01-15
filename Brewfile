@@ -1,7 +1,107 @@
 
 # tap repositories and their packages
 
-tap homebrew/core
+tap homebrew/aliases
+
+tap homebrew/bundle
+
+tap homebrew/cask-drivers
+cask asix-ax88179
+cask canon-mf-printer
+cask displaylink
+cask logitech-unifying
+cask yubico-authenticator
+
+tap homebrew/cask-fonts
+cask font-cica
+cask font-hackgen-nerd
+
+tap homebrew/cask-versions
+cask discord-ptb
+cask firefox-developer-edition
+cask firefox-nightly
+cask obs-beta
+cask safari-technology-preview
+cask visual-studio-code-insiders
+cask wine-staging
+
+tap homebrew/command-not-found
+
+tap homebrew/services
+
+tap athrunsun/athruncask
+
+tap b4b4r07/tap
+
+tap brewsci/base
+
+tap brewsci/bio
+
+tap brewsci/num
+
+tap brewsci/science
+
+tap clintmod/formulas
+
+tap cloudflare/cloudflare
+brew curl
+
+tap cmacrae/formulae
+
+tap ebc-2in2crc/zlibcmd
+
+tap ethereum/ethereum
+
+tap gromgit/fuse
+brew rclone-mac
+
+tap heroku/brew
+
+tap homebrew-ffmpeg/ffmpeg
+brew ffmpeg
+
+tap jeffreywildman/virt-manager
+
+tap knazarov/qemu-virgl
+
+tap koekeishiya/formulae
+brew skhd
+
+tap kryptco/tap
+
+tap mas-cli/tap
+brew mas
+
+tap michaeleisel/zld
+
+tap onokatio/onokatio
+
+tap osx-cross/arm
+
+tap osx-cross/avr
+
+tap osx-cross/openocd
+
+tap osx-cross/stm32
+
+tap px4/px4
+
+tap rcmdnk/file
+brew brew-file
+
+tap rcmdnk/rcmdnkcask
+
+tap rcmdnk/rcmdnkpac
+
+tap sanemat/font
+
+tap sh0nk/tap
+brew man-japanese
+
+tap yt-dlp/taps
+brew yt-dlp
+
+# Other Homebrew packages
 brew ansible
 brew aria2
 brew arp-scan
@@ -13,12 +113,10 @@ brew binwalk
 brew ccache
 brew cmake
 brew coreutils
-brew curl
 brew dex2jar
 brew diff-so-fancy
 brew docker-machine
 brew eksctl
-brew ffmpeg
 brew findutils
 brew fzy
 brew gcc
@@ -39,7 +137,6 @@ brew ipcalc
 brew jq
 brew kubectx
 brew kubernetes-cli
-brew mas
 brew mold
 brew moreutils
 brew mosh
@@ -78,39 +175,10 @@ brew wget
 brew whalebrew
 brew whois
 brew xxh
-brew yt-dlp
 brew zip
 brew zsh
 
-tap homebrew/aliases
-
-tap homebrew/bundle
-
-tap homebrew/cask-drivers
-cask asix-ax88179
-cask canon-mf-printer
-cask displaylink
-cask logitech-unifying
-cask yubico-authenticator
-
-tap homebrew/cask-fonts
-cask font-cica
-cask font-hackgen-nerd
-
-tap homebrew/cask-versions
-cask discord-ptb
-cask firefox-developer-edition
-cask firefox-nightly
-cask obs-beta
-cask safari-technology-preview
-cask visual-studio-code-insiders
-cask wine-staging
-
-tap homebrew/command-not-found
-
-tap homebrew/services
-
-tap homebrew/cask
+# Other Cask applications
 cask alacritty
 cask alfred
 cask android-platform-tools
@@ -149,74 +217,6 @@ cask vagrant
 cask vlc
 cask vnc-viewer
 cask zoom
-
-tap athrunsun/athruncask
-
-tap b4b4r07/tap
-
-tap brewsci/base
-
-tap brewsci/bio
-
-tap brewsci/num
-
-tap brewsci/science
-
-tap clintmod/formulas
-
-tap cloudflare/cloudflare
-
-tap cmacrae/formulae
-
-tap ebc-2in2crc/zlibcmd
-
-tap ethereum/ethereum
-
-tap gromgit/fuse
-brew rclone-mac
-
-tap heroku/brew
-
-tap homebrew-ffmpeg/ffmpeg
-
-tap jeffreywildman/virt-manager
-
-tap knazarov/qemu-virgl
-
-tap koekeishiya/formulae
-brew skhd
-
-tap kryptco/tap
-
-tap mas-cli/tap
-
-tap michaeleisel/zld
-
-tap onokatio/onokatio
-
-tap osx-cross/arm
-
-tap osx-cross/avr
-
-tap osx-cross/openocd
-
-tap osx-cross/stm32
-
-tap px4/px4
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkcask
-
-tap rcmdnk/rcmdnkpac
-
-tap sanemat/font
-
-tap sh0nk/tap
-brew man-japanese
-
-tap yt-dlp/taps
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.11.10)
