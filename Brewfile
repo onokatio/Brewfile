@@ -11,7 +11,6 @@ brew awscli
 brew bash-completion@2
 brew binwalk
 brew ccache
-brew cloudflared
 brew cmake
 brew coreutils
 brew curl
@@ -133,7 +132,6 @@ cask kiwix
 cask krisp
 cask macfuse
 cask macupdater
-cask microsoft-auto-update
 cask microsoft-teams
 cask netdownloadhelpercoapp
 cask notion-enhanced
