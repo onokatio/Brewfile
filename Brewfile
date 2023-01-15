@@ -160,7 +160,6 @@ cask raspberry-pi-imager
 cask silicon
 cask skype
 cask steam
-cask superproductivity
 cask swiftbar
 cask syncthing
 cask thunderbird
