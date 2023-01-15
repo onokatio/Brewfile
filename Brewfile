@@ -23,7 +23,6 @@ brew ffmpeg
 brew findutils
 brew fzy
 brew gcc
-brew ghostscript
 brew ghq
 brew gibo
 brew git
@@ -31,14 +30,10 @@ brew git-delta
 brew git-lfs
 brew git-open
 brew glib
-brew glib-networking
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
 brew go
-brew gobject-introspection
-brew gsettings-desktop-schemas
-brew harfbuzz
 brew htop
 brew httpie
 brew imagemagick
@@ -46,8 +41,6 @@ brew ipcalc
 brew jq
 brew kubectx
 brew kubernetes-cli
-brew libraqm
-brew libsoup
 brew mas
 brew mold
 brew moreutils
@@ -63,7 +56,6 @@ brew php
 brew pigz
 brew pipenv
 brew pipx
-brew pixman
 brew pkg-config
 brew prettyping
 brew progress
@@ -91,7 +83,6 @@ brew whois
 brew xxh
 brew yt-dlp
 brew zip
-brew zlib
 brew zsh
 
 tap homebrew/aliases
@@ -189,7 +180,6 @@ tap cloudflare/cloudflare
 tap cmacrae/formulae
 
 tap ebc-2in2crc/zlibcmd
-brew zlibcmd
 
 tap ethereum/ethereum
 
