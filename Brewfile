@@ -33,7 +33,6 @@ brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
-brew go
 brew htop
 brew httpie
 brew imagemagick
@@ -116,7 +115,6 @@ tap homebrew/cask
 cask alacritty
 cask alfred
 cask android-platform-tools
-cask basictex
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
@@ -130,7 +128,6 @@ cask firefox
 cask gimp
 cask google-chrome
 cask google-drive
-cask google-japanese-ime
 cask hiddenbar
 cask kiwix
 cask krisp
@@ -139,16 +136,12 @@ cask macupdater
 cask microsoft-auto-update
 cask microsoft-teams
 cask netdownloadhelpercoapp
-cask nextcloud
 cask notion-enhanced
-cask onedrive
-cask onyx
 cask openshot-video-editor
 cask protonmail-bridge
 cask protonvpn
 cask raspberry-pi-imager
 cask silicon
-cask skype
 cask steam
 cask swiftbar
 cask syncthing
@@ -157,7 +150,6 @@ cask tor-browser
 cask vagrant
 cask vlc
 cask vnc-viewer
-cask xbar
 cask zoom
 
 tap athrunsun/athruncask
@@ -203,8 +195,6 @@ tap mas-cli/tap
 tap michaeleisel/zld
 
 tap onokatio/onokatio
-brew softether-vpnclient
-brew sshpass
 
 tap osx-cross/arm
 
