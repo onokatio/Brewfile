@@ -132,6 +132,9 @@ tap ebc-2in2crc/zlibcmd
 
 tap ethereum/ethereum
 
+tap ferdium/ferdium
+cask ferdium-beta
+
 tap gromgit/fuse
 brew rclone-mac
 
@@ -189,7 +192,6 @@ cask cloudflare-warp
 cask cron
 cask discord
 cask docker
-cask ferdium
 cask firefox
 cask gimp
 cask google-chrome
