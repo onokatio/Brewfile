@@ -110,6 +110,45 @@ tap homebrew/command-not-found
 
 tap homebrew/services
 
+tap homebrew/cask
+cask alacritty
+cask alfred
+cask android-platform-tools
+cask betterdiscord-installer
+cask betterdummy
+cask bettertouchtool
+cask calibre
+cask cloudflare-warp
+cask cron
+cask discord
+cask docker
+cask firefox
+cask gimp
+cask google-chrome
+cask google-drive
+cask hiddenbar
+cask kiwix
+cask krisp
+cask macfuse
+cask macupdater
+cask microsoft-teams
+cask netdownloadhelpercoapp
+cask notion-enhanced
+cask openshot-video-editor
+cask protonmail-bridge
+cask protonvpn
+cask raspberry-pi-imager
+cask silicon
+cask steam
+cask swiftbar
+cask syncthing
+cask thunderbird
+cask tor-browser
+cask vagrant
+cask vlc
+cask vnc-viewer
+cask zoom
+
 tap athrunsun/athruncask
 
 tap b4b4r07/tap
@@ -179,45 +218,6 @@ tap sanemat/font
 tap sh0nk/tap
 
 tap yt-dlp/taps
-
-# Other Cask applications
-cask alacritty
-cask alfred
-cask android-platform-tools
-cask betterdiscord-installer
-cask betterdummy
-cask bettertouchtool
-cask calibre
-cask cloudflare-warp
-cask cron
-cask discord
-cask docker
-cask firefox
-cask gimp
-cask google-chrome
-cask google-drive
-cask hiddenbar
-cask kiwix
-cask krisp
-cask macfuse
-cask macupdater
-cask microsoft-teams
-cask netdownloadhelpercoapp
-cask notion-enhanced
-cask openshot-video-editor
-cask protonmail-bridge
-cask protonvpn
-cask raspberry-pi-imager
-cask silicon
-cask steam
-cask swiftbar
-cask syncthing
-cask thunderbird
-cask tor-browser
-cask vagrant
-cask vlc
-cask vnc-viewer
-cask zoom
 
 # App Store applications
 appstore 1440147259  AdGuard for Safari  (1.11.10)
