@@ -119,7 +119,6 @@ cask betterdummy
 cask bettertouchtool
 cask calibre
 cask cloudflare-warp
-cask cron
 cask discord
 cask docker
 cask firefox
@@ -224,7 +223,5 @@ appstore 1440147259  AdGuard for Safari  (1.11.10)
 appstore 682658836   GarageBand          (10.4.7)
 appstore 408981434   iMovie              (10.3.5)
 appstore 539883307   LINE                (7.14.1)
-appstore 946680495   MARKETSPEED         (3.0.1)
 appstore 1429033973  RunCat              (9.7)
-appstore 1448648921  Seashore            (3.20)
 appstore 1475387142  Tailscale           (1.34.2)
