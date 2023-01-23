@@ -119,7 +119,6 @@ cask betterdummy
 cask bettertouchtool
 cask calibre
 cask cloudflare-warp
-cask discord
 cask docker
 cask firefox
 cask gimp
@@ -130,7 +129,6 @@ cask kiwix
 cask krisp
 cask macfuse
 cask macupdater
-cask microsoft-teams
 cask netdownloadhelpercoapp
 cask notion-enhanced
 cask openshot-video-editor
