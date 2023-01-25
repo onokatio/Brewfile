@@ -84,6 +84,8 @@ brew zsh
 
 tap homebrew/aliases
 
+tap homebrew/autoupdate
+
 tap homebrew/bundle
 
 tap homebrew/cask-drivers
@@ -104,6 +106,7 @@ cask firefox-nightly
 cask obs-beta
 cask safari-technology-preview
 cask visual-studio-code-insiders
+cask vlc-nightly
 cask wine-staging
 
 tap homebrew/command-not-found
@@ -114,6 +117,7 @@ tap homebrew/cask
 cask alacritty
 cask alfred
 cask android-platform-tools
+cask basictex
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
@@ -142,11 +146,20 @@ cask syncthing
 cask thunderbird
 cask tor-browser
 cask vagrant
-cask vlc
 cask vnc-viewer
 cask zoom
 
+tap 1password/tap
+
+tap adoptopenjdk/openjdk
+
 tap athrunsun/athruncask
+
+tap atlassian/tap
+
+tap aws/tap
+
+tap b-ramsey/kali
 
 tap b4b4r07/tap
 
@@ -158,40 +171,93 @@ tap brewsci/num
 
 tap brewsci/science
 
+tap caskformula/caskformula
+
 tap clintmod/formulas
+
+tap clojure-lsp/brew
 
 tap cloudflare/cloudflare
 
+tap cloudfoundry/tap
+
 tap cmacrae/formulae
+
+tap cockroachdb/tap
+
+tap dart-lang/dart
+
+tap denji/nginx
+
+tap devhubapp/devhub
 
 tap ebc-2in2crc/zlibcmd
 
+tap eblot/armeabi
+
 tap ethereum/ethereum
+
+tap facebook/fb
 
 tap ferdium/ferdium
 cask ferdium-beta
 
+tap go-task/tap
+
+tap graalvm/tap
+
+tap grain-lang/tap
+
 tap gromgit/fuse
 brew rclone-mac
+
+tap hashicorp/tap
 
 tap heroku/brew
 
 tap homebrew-ffmpeg/ffmpeg
 
+tap isen-ng/dotnet-sdk-versions
+
 tap jeffreywildman/virt-manager
+
+tap justinmayer/tap
+
+tap k1low/tap
+
+tap keybase/beta
+
+tap knative-sandbox/kn-plugins
 
 tap knazarov/qemu-virgl
 
 tap koekeishiya/formulae
-brew skhd
 
 tap kryptco/tap
 
 tap mas-cli/tap
 
+tap metacollin/kicad
+
 tap michaeleisel/zld
 
+tap microsoft/git
+
+tap mongodb/brew
+
+tap mscharley/homebrew
+
+tap mtslzr/marmaduke-chromium
+
+tap nextdns/tap
+
 tap onokatio/onokatio
+
+tap orangain/tap
+
+tap osgeo/osgeo4mac
+
+tap osrf/simulation
 
 tap osx-cross/arm
 
@@ -200,6 +266,16 @@ tap osx-cross/avr
 tap osx-cross/openocd
 
 tap osx-cross/stm32
+
+tap paulgalow/tap
+
+tap phalcon/tap
+
+tap pinterest/tap
+
+tap puma/puma
+
+tap puppetlabs/puppet
 
 tap px4/px4
 
@@ -210,9 +286,33 @@ tap rcmdnk/rcmdnkcask
 
 tap rcmdnk/rcmdnkpac
 
+tap romkatv/powerlevel10k
+
 tap sanemat/font
 
+tap sashkab/python
+
+tap sass/sass
+
 tap sh0nk/tap
+
+tap shivammathur/extensions
+
+tap shivammathur/php
+
+tap songmu/tap
+
+tap sticklerm3/pourhouse
+
+tap timescale/tap
+
+tap twilio/brew
+
+tap universal-ctags/universal-ctags
+
+tap v2ray/v2ray
+
+tap varenc/ffmpeg
 
 tap yt-dlp/taps
 
