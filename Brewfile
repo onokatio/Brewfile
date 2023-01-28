@@ -116,6 +116,7 @@ tap homebrew/services
 tap homebrew/cask
 cask alacritty
 cask alfred
+cask altserver
 cask android-platform-tools
 cask basictex
 cask betterdiscord-installer
@@ -287,6 +288,8 @@ tap rcmdnk/rcmdnkcask
 tap rcmdnk/rcmdnkpac
 
 tap romkatv/powerlevel10k
+
+tap sacloud/usacloud
 
 tap sanemat/font
 
