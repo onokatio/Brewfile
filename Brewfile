@@ -118,7 +118,6 @@ cask alacritty
 cask alfred
 cask altserver
 cask android-platform-tools
-cask basictex
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
@@ -133,7 +132,9 @@ cask hiddenbar
 cask kiwix
 cask krisp
 cask macfuse
+cask mactex-no-gui
 cask macupdater
+cask mimestream
 cask netdownloadhelpercoapp
 cask notion-enhanced
 cask openshot-video-editor
