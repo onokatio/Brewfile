@@ -148,7 +148,6 @@ cask syncthing
 cask thunderbird
 cask tor-browser
 cask vagrant
-cask vnc-viewer
 cask zoom
 
 tap 1password/tap
