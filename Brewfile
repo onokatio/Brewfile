@@ -28,10 +28,10 @@ brew git
 brew git-delta
 brew git-lfs
 brew git-open
-brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
+brew go
 brew htop
 brew httpie
 brew imagemagick
@@ -58,7 +58,6 @@ brew prettyping
 brew progress
 brew pup
 brew python-yq
-brew python@3.10
 brew python@3.9
 brew reattach-to-user-namespace
 brew ripgrep
@@ -68,6 +67,7 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
+brew tesseract
 brew tmux
 brew unar
 brew volta
@@ -106,7 +106,6 @@ cask firefox-nightly
 cask obs-beta
 cask safari-technology-preview
 cask visual-studio-code-insiders
-cask vlc-nightly
 cask wine-staging
 
 tap homebrew/command-not-found
@@ -116,15 +115,16 @@ tap homebrew/services
 tap homebrew/cask
 cask alacritty
 cask alfred
-<<<<<<< Updated upstream
-cask altserver
 cask android-platform-tools
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
 cask calibre
 cask cloudflare-warp
+cask cron
+cask discord
 cask docker
+cask ferdium
 cask firefox
 cask gimp
 cask google-chrome
@@ -133,9 +133,8 @@ cask hiddenbar
 cask kiwix
 cask krisp
 cask macfuse
-cask mactex-no-gui
 cask macupdater
-cask mimestream
+cask microsoft-teams
 cask netdownloadhelpercoapp
 cask notion-enhanced
 cask openshot-video-editor
@@ -149,6 +148,7 @@ cask syncthing
 cask thunderbird
 cask tor-browser
 cask vagrant
+cask vnc-viewer
 cask zoom
 
 tap 1password/tap
@@ -202,7 +202,6 @@ tap ethereum/ethereum
 tap facebook/fb
 
 tap ferdium/ferdium
-cask ferdium-beta
 
 tap go-task/tap
 
@@ -234,6 +233,7 @@ tap knative-sandbox/kn-plugins
 tap knazarov/qemu-virgl
 
 tap koekeishiya/formulae
+brew skhd
 
 tap kryptco/tap
 
@@ -317,217 +317,6 @@ tap universal-ctags/universal-ctags
 tap v2ray/v2ray
 
 tap varenc/ffmpeg
-||||||| Stash base
-tap athrunsun/athruncask
-
-tap b4b4r07/tap
-
-tap brewsci/base
-
-tap brewsci/bio
-
-tap brewsci/num
-
-tap brewsci/science
-
-tap clintmod/formulas
-
-tap cloudflare/cloudflare
-
-tap cmacrae/formulae
-
-tap ebc-2in2crc/zlibcmd
-
-tap ethereum/ethereum
-
-tap gromgit/fuse
-brew rclone-mac
-
-tap heroku/brew
-
-tap homebrew-ffmpeg/ffmpeg
-
-tap jeffreywildman/virt-manager
-
-tap knazarov/qemu-virgl
-
-tap koekeishiya/formulae
-brew skhd
-
-tap kryptco/tap
-
-tap mas-cli/tap
-
-tap michaeleisel/zld
-
-tap onokatio/onokatio
-
-tap osx-cross/arm
-
-tap osx-cross/avr
-
-tap osx-cross/openocd
-
-tap osx-cross/stm32
-
-tap px4/px4
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkcask
-
-tap rcmdnk/rcmdnkpac
-
-tap sanemat/font
-
-tap sh0nk/tap
-
-tap yt-dlp/taps
-
-# Other Cask applications
-cask alacritty
-cask alfred
-cask android-platform-tools
-cask betterdiscord-installer
-cask betterdummy
-cask bettertouchtool
-cask calibre
-cask cloudflare-warp
-cask cron
-cask discord
-cask docker
-cask ferdium
-cask firefox
-cask gimp
-cask google-chrome
-cask google-drive
-cask hiddenbar
-cask kiwix
-cask krisp
-cask macfuse
-cask macupdater
-cask microsoft-teams
-cask netdownloadhelpercoapp
-cask notion-enhanced
-cask openshot-video-editor
-cask protonmail-bridge
-cask protonvpn
-cask raspberry-pi-imager
-cask silicon
-cask steam
-cask swiftbar
-cask syncthing
-cask thunderbird
-cask tor-browser
-cask vagrant
-cask vlc
-cask vnc-viewer
-cask zoom
-
-=======
-cask android-platform-tools
-cask betterdiscord-installer
-cask betterdummy
-cask bettertouchtool
-cask calibre
-cask cloudflare-warp
-cask cron
-cask discord
-cask docker
-cask ferdium
-cask firefox
-cask gimp
-cask google-chrome
-cask google-drive
-cask hiddenbar
-cask kiwix
-cask krisp
-cask macfuse
-cask macupdater
-cask microsoft-teams
-cask netdownloadhelpercoapp
-cask notion-enhanced
-cask openshot-video-editor
-cask protonmail-bridge
-cask protonvpn
-cask raspberry-pi-imager
-cask silicon
-cask steam
-cask swiftbar
-cask syncthing
-cask thunderbird
-cask tor-browser
-cask vagrant
-cask vlc
-cask vnc-viewer
-cask zoom
-
-tap athrunsun/athruncask
-
-tap b4b4r07/tap
-
-tap brewsci/base
-
-tap brewsci/bio
-
-tap brewsci/num
-
-tap brewsci/science
-
-tap clintmod/formulas
-
-tap cloudflare/cloudflare
-
-tap cmacrae/formulae
-
-tap ebc-2in2crc/zlibcmd
-
-tap ethereum/ethereum
-
-tap gromgit/fuse
-brew rclone-mac
-
-tap heroku/brew
-
-tap homebrew-ffmpeg/ffmpeg
-
-tap jeffreywildman/virt-manager
-
-tap knazarov/qemu-virgl
-
-tap koekeishiya/formulae
-brew skhd
-
-tap kryptco/tap
-
-tap mas-cli/tap
-
-tap michaeleisel/zld
-
-tap onokatio/onokatio
-
-tap osx-cross/arm
-
-tap osx-cross/avr
-
-tap osx-cross/openocd
-
-tap osx-cross/stm32
-
-tap px4/px4
-
-tap rcmdnk/file
-brew brew-file
-
-tap rcmdnk/rcmdnkcask
-
-tap rcmdnk/rcmdnkpac
-
-tap sanemat/font
-
-tap sh0nk/tap
->>>>>>> Stashed changes
 
 tap yt-dlp/taps
 
