@@ -100,6 +100,7 @@ cask font-cica
 cask font-hackgen-nerd
 
 tap homebrew/cask-versions
+cask discord-canary
 cask discord-ptb
 cask firefox-developer-edition
 cask firefox-nightly
@@ -129,6 +130,7 @@ cask firefox
 cask gimp
 cask google-chrome
 cask google-drive
+cask grammarly-desktop
 cask hiddenbar
 cask kiwix
 cask krisp
