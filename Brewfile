@@ -28,6 +28,7 @@ brew git
 brew git-delta
 brew git-lfs
 brew git-open
+brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
@@ -58,6 +59,7 @@ brew prettyping
 brew progress
 brew pup
 brew python-yq
+brew python@3.10
 brew python@3.9
 brew reattach-to-user-namespace
 brew ripgrep
@@ -67,7 +69,6 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
-brew tesseract
 brew tmux
 brew unar
 brew volta
@@ -107,6 +108,7 @@ cask firefox-nightly
 cask obs-beta
 cask safari-technology-preview
 cask visual-studio-code-insiders
+cask vlc-nightly
 cask wine-staging
 
 tap homebrew/command-not-found
@@ -116,6 +118,7 @@ tap homebrew/services
 tap homebrew/cask
 cask alacritty
 cask alfred
+cask altserver
 cask android-platform-tools
 cask betterdiscord-installer
 cask betterdummy
@@ -135,8 +138,10 @@ cask hiddenbar
 cask kiwix
 cask krisp
 cask macfuse
+cask mactex-no-gui
 cask macupdater
 cask microsoft-teams
+cask mimestream
 cask netdownloadhelpercoapp
 cask notion-enhanced
 cask openshot-video-editor
@@ -204,6 +209,7 @@ tap ethereum/ethereum
 tap facebook/fb
 
 tap ferdium/ferdium
+cask ferdium-beta
 
 tap go-task/tap
 
