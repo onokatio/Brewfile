@@ -104,10 +104,12 @@ cask font-hackgen-nerd
 tap homebrew/cask-versions
 cask discord-canary
 cask discord-ptb
+cask element-nightly
 cask firefox-developer-edition
 cask firefox-nightly
 cask obs-beta
 cask safari-technology-preview
+cask slack-beta
 cask visual-studio-code-insiders
 cask vlc-nightly
 cask wine-staging
@@ -130,6 +132,7 @@ cask cron
 cask discord
 cask docker
 cask firefox
+cask gather
 cask gimp
 cask google-chrome
 cask google-drive
@@ -143,6 +146,7 @@ cask macupdater
 cask microsoft-teams
 cask mimestream
 cask netdownloadhelpercoapp
+cask notion
 cask notion-enhanced
 cask openshot-video-editor
 cask protonmail-bridge
@@ -331,6 +335,6 @@ tap yt-dlp/taps
 appstore 1440147259  AdGuard for Safari  (1.11.10)
 appstore 682658836   GarageBand          (10.4.7)
 appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.14.1)
+appstore 539883307   LINE                (7.15.0)
 appstore 1429033973  RunCat              (9.7)
 appstore 1475387142  Tailscale           (1.36.0)
