@@ -329,6 +329,8 @@ tap v2ray/v2ray
 
 tap varenc/ffmpeg
 
+tap wez/wezterm
+
 tap yt-dlp/taps
 
 # App Store applications
