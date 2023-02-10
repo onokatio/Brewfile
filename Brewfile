@@ -17,6 +17,7 @@ brew curl
 brew dex2jar
 brew diff-so-fancy
 brew docker-machine
+brew dust
 brew eksctl
 brew ffmpeg
 brew findutils
@@ -128,7 +129,6 @@ cask cloudflare-warp
 cask cron
 cask discord
 cask docker
-cask ferdium
 cask firefox
 cask gimp
 cask google-chrome
@@ -209,7 +209,7 @@ tap ethereum/ethereum
 tap facebook/fb
 
 tap ferdium/ferdium
-cask ferdium-beta
+cask ferdium-nightly
 
 tap go-task/tap
 
@@ -241,7 +241,6 @@ tap knative-sandbox/kn-plugins
 tap knazarov/qemu-virgl
 
 tap koekeishiya/formulae
-brew skhd
 
 tap kryptco/tap
 
