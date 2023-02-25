@@ -24,6 +24,7 @@ cask discord-ptb
 cask element-nightly
 cask firefox-developer-edition
 cask firefox-nightly
+cask macfuse-dev
 cask obs-beta
 cask safari-technology-preview
 cask slack-beta
@@ -207,8 +208,6 @@ tap v2ray/v2ray
 
 tap varenc/ffmpeg
 
-tap wez/wezterm
-
 tap yt-dlp/taps
 brew yt-dlp
 
@@ -311,7 +310,6 @@ cask grammarly-desktop
 cask hiddenbar
 cask kiwix
 cask krisp
-cask macfuse
 cask mactex-no-gui
 cask macupdater
 cask microsoft-teams
