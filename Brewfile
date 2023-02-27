@@ -213,6 +213,7 @@ brew yt-dlp
 
 # Other Homebrew packages
 brew ansible
+brew ansible-lint
 brew aria2
 brew arp-scan
 brew arping
