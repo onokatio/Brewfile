@@ -248,6 +248,7 @@ brew httpie
 brew imagemagick
 brew ipcalc
 brew jq
+brew krew
 brew kubectx
 brew kubernetes-cli
 brew mold
