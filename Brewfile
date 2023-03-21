@@ -331,9 +331,9 @@ tap wez/wezterm
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.10)
-appstore 682658836   GarageBand          (10.4.7)
+appstore 1440147259  AdGuard for Safari  (1.11.11)
+appstore 682658836   GarageBand          (10.4.8)
 appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.14.1)
+appstore 539883307   LINE                (7.16.1)
 appstore 1429033973  RunCat              (9.7)
-appstore 1475387142  Tailscale           (1.36.0)
+appstore 1475387142  Tailscale           (1.36.2)
