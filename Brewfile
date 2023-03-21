@@ -139,7 +139,6 @@ cask grammarly-desktop
 cask hiddenbar
 cask kiwix
 cask krisp
-cask macfuse
 cask mactex-no-gui
 cask macupdater
 cask microsoft-teams
