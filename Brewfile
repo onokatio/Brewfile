@@ -153,7 +153,6 @@ cask silicon
 cask steam
 cask swiftbar
 cask syncthing
-cask thunderbird
 cask tor-browser
 cask vagrant
 cask vnc-viewer
