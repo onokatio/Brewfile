@@ -28,6 +28,7 @@ brew git
 brew git-delta
 brew git-lfs
 brew git-open
+brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
@@ -67,7 +68,6 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
-brew tesseract
 brew tmux
 brew unar
 brew volta
@@ -81,40 +81,6 @@ brew xxh
 brew yt-dlp
 brew zip
 brew zsh
-
-tap homebrew/aliases
-
-tap homebrew/autoupdate
-
-tap homebrew/bundle
-
-tap homebrew/cask-drivers
-cask asix-ax88179
-cask canon-mf-printer
-cask displaylink
-cask logitech-unifying
-cask yubico-authenticator
-
-tap homebrew/cask-fonts
-cask font-cica
-cask font-hackgen-nerd
-
-tap homebrew/cask-versions
-cask discord-canary
-cask discord-ptb
-cask element-nightly
-cask firefox-developer-edition
-cask firefox-nightly
-cask obs-beta
-cask safari-technology-preview
-cask slack-beta
-cask visual-studio-code-insiders
-cask vlc-nightly
-cask wine-staging
-
-tap homebrew/command-not-found
-
-tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
@@ -156,6 +122,40 @@ cask tor-browser
 cask vagrant
 cask vnc-viewer
 cask zoom
+
+tap homebrew/aliases
+
+tap homebrew/autoupdate
+
+tap homebrew/bundle
+
+tap homebrew/cask-drivers
+cask asix-ax88179
+cask canon-mf-printer
+cask displaylink
+cask logitech-unifying
+cask yubico-authenticator
+
+tap homebrew/cask-fonts
+cask font-cica
+cask font-hackgen-nerd
+
+tap homebrew/cask-versions
+cask discord-canary
+cask discord-ptb
+cask element-nightly
+cask firefox-developer-edition
+cask firefox-nightly
+cask obs-beta
+cask safari-technology-preview
+cask slack-beta
+cask visual-studio-code-insiders
+cask vlc-nightly
+cask wine-staging
+
+tap homebrew/command-not-found
+
+tap homebrew/services
 
 tap 1password/tap
 
@@ -296,11 +296,11 @@ tap varenc/ffmpeg
 tap yt-dlp/taps
 
 # App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.12)
-appstore 417375580   BetterSnapTool      (1.9.8)
-appstore 682658836   GarageBand          (10.4.8)
-appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.16.1)
-appstore 1429033973  RunCat              (9.7)
-appstore 1475387142  Tailscale           (1.38.3)
-appstore 899247664   TestFlight          (3.3.0)
+appstore 1440147259 AdGuard for Safari (1.11.12)
+appstore 417375580 BetterSnapTool (1.9.8)
+appstore 682658836 GarageBand (10.4.8)
+appstore 408981434 iMovie (10.3.5)
+appstore 539883307 LINE (7.16.1)
+appstore 1429033973 RunCat (9.7)
+appstore 1475387142 Tailscale (1.38.3)
+appstore 899247664 TestFlight (3.3.0)
