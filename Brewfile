@@ -94,6 +94,7 @@ cask calibre
 cask cloudflare-warp
 cask cron
 cask discord
+cask displaylink
 cask docker
 cask ferdium
 cask firefox
@@ -132,7 +133,6 @@ tap homebrew/bundle
 tap homebrew/cask-drivers
 cask asix-ax88179
 cask canon-mf-printer
-cask displaylink
 cask logitech-unifying
 cask yubico-authenticator
 
