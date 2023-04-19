@@ -71,8 +71,6 @@ brew terraform
 brew tmux
 brew unar
 brew volta
-brew wasmer
-brew wasmtime
 brew watch
 brew wget
 brew whalebrew
