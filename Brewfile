@@ -105,6 +105,7 @@ cask hiddenbar
 cask kiwix
 cask krisp
 cask macfuse
+cask macs-fan-control
 cask mactex-no-gui
 cask macupdater
 cask microsoft-auto-update
@@ -122,6 +123,7 @@ cask syncthing
 cask tor-browser
 cask vagrant
 cask vnc-viewer
+cask yubico-authenticator
 cask zoom
 
 tap homebrew/aliases
@@ -293,9 +295,6 @@ tap universal-ctags/universal-ctags
 tap varenc/ffmpeg
 
 tap yt-dlp/taps
-
-# Other Cask applications
-cask yubico-authenticator
 
 # App Store applications
 appstore 1440147259 AdGuard for Safari (1.11.12)
