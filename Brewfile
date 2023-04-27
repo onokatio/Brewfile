@@ -28,7 +28,6 @@ brew git
 brew git-delta
 brew git-lfs
 brew git-open
-brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
@@ -68,6 +67,7 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
+brew tesseract
 brew tmux
 brew unar
 brew volta
@@ -79,6 +79,39 @@ brew xxh
 brew yt-dlp
 brew zip
 brew zsh
+
+tap homebrew/aliases
+
+tap homebrew/autoupdate
+
+tap homebrew/bundle
+
+tap homebrew/cask-drivers
+cask asix-ax88179
+cask canon-mf-printer
+cask logitech-unifying
+
+tap homebrew/cask-fonts
+cask font-cica
+cask font-hackgen-nerd
+
+tap homebrew/cask-versions
+cask discord-canary
+cask discord-ptb
+cask element-nightly
+cask firefox-developer-edition
+cask firefox-nightly
+cask macfuse-dev
+cask obs-beta
+cask safari-technology-preview
+cask slack-beta
+cask visual-studio-code-insiders
+cask vlc-nightly
+cask wine-staging
+
+tap homebrew/command-not-found
+
+tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
@@ -109,6 +142,8 @@ cask macfuse
 cask macs-fan-control
 cask mactex-no-gui
 cask macupdater
+cask microsoft-auto-update
+cask microsoft-excel
 cask microsoft-auto-update
 cask microsoft-excel
 cask microsoft-teams
@@ -299,6 +334,10 @@ tap universal-ctags/universal-ctags
 tap varenc/ffmpeg
 
 tap yt-dlp/taps
+
+# Other Cask applications
+cask displaylink
+cask yubico-authenticator
 
 # App Store applications
 appstore 1440147259 AdGuard for Safari (1.11.12)
