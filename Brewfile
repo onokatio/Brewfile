@@ -91,6 +91,7 @@ cask bettertouchtool
 cask calibre
 cask cloudflare-warp
 cask cron
+cask daisydisk
 cask discord
 cask displaylink
 cask docker
@@ -109,8 +110,10 @@ cask macs-fan-control
 cask mactex-no-gui
 cask macupdater
 cask microsoft-auto-update
+cask microsoft-excel
 cask microsoft-teams
 cask netdownloadhelpercoapp
+cask notion
 cask notion-enhanced
 cask openshot-video-editor
 cask protonmail-bridge
@@ -123,6 +126,7 @@ cask syncthing
 cask tor-browser
 cask vagrant
 cask vnc-viewer
+cask wezterm
 cask yubico-authenticator
 cask zoom
 
