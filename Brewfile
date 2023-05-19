@@ -22,13 +22,14 @@ brew ffmpeg
 brew findutils
 brew fzy
 brew gcc
+brew gd
+brew ghostscript
 brew ghq
 brew gibo
 brew git
 brew git-delta
 brew git-lfs
 brew git-open
-brew glib
 brew gmailctl
 brew gnu-sed
 brew gnu-tar
@@ -37,22 +38,31 @@ brew htop
 brew httpie
 brew imagemagick
 brew ipcalc
+brew jpeg-xl
 brew jq
 brew kubectx
 brew kubernetes-cli
+brew leptonica
+brew libheif
+brew little-cms2
 brew mas
 brew mold
 brew moreutils
 brew mosh
+brew mplayer
 brew mtr
 brew mysql
 brew neovim
 brew nmap
+brew numpy
+brew openblas
 brew openjdk
+brew openjpeg
 brew openssl@3
 brew payload-dumper-go
 brew php
 brew pigz
+brew pillow
 brew pipenv
 brew pipx
 brew prettyping
@@ -68,10 +78,14 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
+brew tesseract
 brew tmux
 brew unar
 brew volta
+brew wasmer
+brew wasmtime
 brew watch
+brew webp
 brew wget
 brew whalebrew
 brew whois
@@ -79,56 +93,6 @@ brew xxh
 brew yt-dlp
 brew zip
 brew zsh
-
-tap homebrew/cask
-cask alacritty
-cask alfred
-cask altserver
-cask android-platform-tools
-cask asix-ax88179
-cask betterdiscord-installer
-cask betterdummy
-cask bettertouchtool
-cask calibre
-cask cloudflare-warp
-cask cron
-cask daisydisk
-cask discord
-cask displaylink
-cask docker
-cask ferdium
-cask firefox
-cask gather
-cask gimp
-cask google-chrome
-cask google-drive
-cask grammarly-desktop
-cask hiddenbar
-cask kiwix
-cask krisp
-cask macs-fan-control
-cask mactex-no-gui
-cask macupdater
-cask microsoft-auto-update
-cask microsoft-excel
-cask microsoft-teams
-cask netdownloadhelpercoapp
-cask notion
-cask notion-enhanced
-cask openshot-video-editor
-cask protonmail-bridge
-cask protonvpn
-cask raspberry-pi-imager
-cask silicon
-cask steam
-cask swiftbar
-cask syncthing
-cask tor-browser
-cask vagrant
-cask vnc-viewer
-cask wezterm
-cask yubico-authenticator
-cask zoom
 
 tap homebrew/aliases
 
@@ -148,6 +112,7 @@ cask discord-ptb
 cask element-nightly
 cask firefox-developer-edition
 cask firefox-nightly
+cask macfuse-dev
 cask obs-beta
 cask safari-technology-preview
 cask slack-beta
@@ -158,6 +123,53 @@ cask wine-staging
 tap homebrew/command-not-found
 
 tap homebrew/services
+
+tap homebrew/cask
+cask alacritty
+cask alfred
+cask altserver
+cask android-platform-tools
+cask betterdiscord-installer
+cask betterdummy
+cask bettertouchtool
+cask calibre
+cask cloudflare-warp
+cask cron
+cask discord
+cask docker
+cask ferdium
+cask firefox
+cask gather
+cask gimp
+cask google-chrome
+cask google-drive
+cask grammarly-desktop
+cask hiddenbar
+cask kiwix
+cask krisp
+cask libreoffice
+cask macs-fan-control
+cask mactex-no-gui
+cask macupdater
+cask microsoft-auto-update
+cask microsoft-excel
+cask microsoft-teams
+cask microsoft-word
+cask netdownloadhelpercoapp
+cask notion-enhanced
+cask openshot-video-editor
+cask protonmail-bridge
+cask protonvpn
+cask raspberry-pi-imager
+cask silicon
+cask spotify
+cask steam
+cask swiftbar
+cask syncthing
+cask tor-browser
+cask vagrant
+cask vnc-viewer
+cask zoom
 
 tap 1password/tap
 
@@ -285,6 +297,9 @@ tap shivammathur/php
 
 tap songmu/tap
 
+tap spicetify/tap
+brew spicetify-cli
+
 tap sticklerm3/pourhouse
 
 tap timescale/tap
@@ -298,16 +313,18 @@ tap varenc/ffmpeg
 tap yt-dlp/taps
 
 # Other Cask applications
+cask asix-ax88179
 cask canon-mf-printer
+cask displaylink
 cask logitech-unifying
+cask yubico-authenticator
 
 # App Store applications
-appstore 1440147259 AdGuard for Safari (1.11.12)
-appstore 417375580 BetterSnapTool (1.9.8)
-appstore 682658836 GarageBand (10.4.8)
-appstore 408981434 iMovie (10.3.5)
-appstore 539883307 LINE (7.17.0)
-appstore 1429033973 RunCat (10.0)
-appstore 1475387142 Tailscale (1.40.0)
-appstore 1614816445 TEPRA LINK 2 (1.0.1)
-appstore 899247664 TestFlight (3.3.0)
+appstore 1440147259  AdGuard for Safari  (1.11.12)
+appstore 417375580   BetterSnapTool      (1.9.8)
+appstore 682658836   GarageBand          (10.4.8)
+appstore 408981434   iMovie              (10.3.5)
+appstore 539883307   LINE                (7.17.0)
+appstore 1429033973  RunCat              (10.2)
+appstore 1475387142  Tailscale           (1.40.0)
+appstore 899247664   TestFlight          (3.3.0)
