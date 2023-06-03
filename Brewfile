@@ -328,3 +328,5 @@ appstore 539883307   LINE                (7.17.0)
 appstore 1429033973  RunCat              (10.2)
 appstore 1475387142  Tailscale           (1.40.0)
 appstore 899247664   TestFlight          (3.3.0)
+
+main ./Brewfile.$OSTYPE.$PLATFORM
