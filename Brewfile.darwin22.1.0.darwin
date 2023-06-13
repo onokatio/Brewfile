@@ -1,0 +1,176 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew glib
+
+tap homebrew/cask
+cask daisydisk
+cask karabiner-elements
+cask notion
+cask wezterm
+
+tap homebrew/aliases
+
+tap homebrew/autoupdate
+
+tap homebrew/bundle
+
+tap homebrew/cask-drivers
+
+tap homebrew/cask-fonts
+
+tap homebrew/cask-versions
+
+tap homebrew/command-not-found
+
+tap homebrew/services
+
+tap 1password/tap
+
+tap athrunsun/athruncask
+
+tap atlassian/tap
+
+tap aws/tap
+
+tap b4b4r07/tap
+
+tap brewsci/base
+
+tap brewsci/bio
+
+tap brewsci/num
+
+tap clintmod/formulas
+
+tap clojure-lsp/brew
+
+tap cloudflare/cloudflare
+
+tap cloudfoundry/tap
+
+tap cockroachdb/tap
+
+tap dart-lang/dart
+
+tap devhubapp/devhub
+
+tap ebc-2in2crc/zlibcmd
+
+tap eblot/armeabi
+
+tap facebook/fb
+
+tap ferdium/ferdium
+
+tap go-task/tap
+
+tap graalvm/tap
+
+tap grain-lang/tap
+
+tap gromgit/fuse
+
+tap hashicorp/tap
+
+tap heroku/brew
+
+tap homebrew-ffmpeg/ffmpeg
+
+tap isen-ng/dotnet-sdk-versions
+
+tap jeffreywildman/virt-manager
+
+tap justinmayer/tap
+
+tap k1low/tap
+
+tap knazarov/qemu-virgl
+
+tap kryptco/tap
+
+tap mas-cli/tap
+
+tap michaeleisel/zld
+
+tap microsoft/git
+
+tap mongodb/brew
+
+tap mscharley/homebrew
+
+tap mtslzr/marmaduke-chromium
+
+tap nextdns/tap
+
+tap onokatio/onokatio
+
+tap orangain/tap
+
+tap osrf/simulation
+
+tap osx-cross/arm
+
+tap osx-cross/avr
+
+tap osx-cross/openocd
+
+tap osx-cross/stm32
+
+tap paulgalow/tap
+
+tap phalcon/tap
+
+tap pinterest/tap
+
+tap puma/puma
+
+tap px4/px4
+
+tap rcmdnk/file
+
+tap rcmdnk/rcmdnkcask
+
+tap rcmdnk/rcmdnkpac
+
+tap romkatv/powerlevel10k
+
+tap sacloud/usacloud
+
+tap sanemat/font
+
+tap sashkab/python
+
+tap sass/sass
+
+tap sh0nk/tap
+
+tap shivammathur/php
+
+tap songmu/tap
+
+tap spicetify/tap
+
+tap sticklerm3/pourhouse
+
+tap timescale/tap
+
+tap twilio/brew
+
+tap universal-ctags/universal-ctags
+
+tap varenc/ffmpeg
+
+tap yt-dlp/taps
+
+# App Store applications
+appstore 1440147259 AdGuard for Safari (1.11.13)
+appstore 417375580 BetterSnapTool (1.9.8)
+appstore 682658836 GarageBand (10.4.8)
+appstore 408981434 iMovie (10.3.6)
+appstore 539883307 LINE (7.17.0)
+appstore 1429033973 RunCat (10.3)
+appstore 1475387142 Tailscale (1.42.0)
+appstore 1614816445 TEPRA LINK 2 (1.0.1)
+appstore 899247664 TestFlight (3.3.0)

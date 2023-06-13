@@ -22,8 +22,6 @@ brew ffmpeg
 brew findutils
 brew fzy
 brew gcc
-brew gd
-brew ghostscript
 brew ghq
 brew gibo
 brew git
@@ -38,13 +36,9 @@ brew htop
 brew httpie
 brew imagemagick
 brew ipcalc
-brew jpeg-xl
 brew jq
 brew kubectx
 brew kubernetes-cli
-brew leptonica
-brew libheif
-brew little-cms2
 brew mas
 brew mold
 brew moreutils
@@ -54,15 +48,11 @@ brew mtr
 brew mysql
 brew neovim
 brew nmap
-brew numpy
-brew openblas
 brew openjdk
-brew openjpeg
 brew openssl@3
 brew payload-dumper-go
 brew php
 brew pigz
-brew pillow
 brew pipenv
 brew pipx
 brew prettyping
@@ -78,14 +68,12 @@ brew sccache
 brew stow
 brew telnet
 brew terraform
-brew tesseract
 brew tmux
 brew unar
 brew volta
 brew wasmer
 brew wasmtime
 brew watch
-brew webp
 brew wget
 brew whalebrew
 brew whois
@@ -94,41 +82,12 @@ brew yt-dlp
 brew zip
 brew zsh
 
-tap homebrew/aliases
-
-tap homebrew/autoupdate
-
-tap homebrew/bundle
-
-tap homebrew/cask-drivers
-
-tap homebrew/cask-fonts
-cask font-cica
-cask font-hackgen-nerd
-
-tap homebrew/cask-versions
-cask discord-canary
-cask discord-ptb
-cask element-nightly
-cask firefox-developer-edition
-cask firefox-nightly
-cask macfuse-dev
-cask obs-beta
-cask safari-technology-preview
-cask slack-beta
-cask visual-studio-code-insiders
-cask vlc-nightly
-cask wine-staging
-
-tap homebrew/command-not-found
-
-tap homebrew/services
-
 tap homebrew/cask
 cask alacritty
 cask alfred
 cask altserver
 cask android-platform-tools
+cask asix-ax88179
 cask betterdiscord-installer
 cask betterdummy
 cask bettertouchtool
@@ -136,6 +95,7 @@ cask calibre
 cask cloudflare-warp
 cask cron
 cask discord
+cask displaylink
 cask docker
 cask ferdium
 cask firefox
@@ -169,7 +129,38 @@ cask syncthing
 cask tor-browser
 cask vagrant
 cask vnc-viewer
+cask yubico-authenticator
 cask zoom
+
+tap homebrew/aliases
+
+tap homebrew/autoupdate
+
+tap homebrew/bundle
+
+tap homebrew/cask-drivers
+
+tap homebrew/cask-fonts
+cask font-cica
+cask font-hackgen-nerd
+
+tap homebrew/cask-versions
+cask discord-canary
+cask discord-ptb
+cask element-nightly
+cask firefox-developer-edition
+cask firefox-nightly
+cask macfuse-dev
+cask obs-beta
+cask safari-technology-preview
+cask slack-beta
+cask visual-studio-code-insiders
+cask vlc-nightly
+cask wine-staging
+
+tap homebrew/command-not-found
+
+tap homebrew/services
 
 tap 1password/tap
 
@@ -313,20 +304,8 @@ tap varenc/ffmpeg
 tap yt-dlp/taps
 
 # Other Cask applications
-cask asix-ax88179
 cask canon-mf-printer
-cask displaylink
 cask logitech-unifying
-cask yubico-authenticator
 
-# App Store applications
-appstore 1440147259  AdGuard for Safari  (1.11.12)
-appstore 417375580   BetterSnapTool      (1.9.8)
-appstore 682658836   GarageBand          (10.4.8)
-appstore 408981434   iMovie              (10.3.5)
-appstore 539883307   LINE                (7.17.0)
-appstore 1429033973  RunCat              (10.2)
-appstore 1475387142  Tailscale           (1.40.0)
-appstore 899247664   TestFlight          (3.3.0)
-
+# Main file
 main ./Brewfile.$OSTYPE.$PLATFORM
