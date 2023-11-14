@@ -308,4 +308,8 @@ cask canon-mf-printer
 cask logitech-unifying
 
 # Main file
+#  HOSTNAME: uname -n (ex. macbook-air-hogefuga.local)
+#  HOSTTYPE: uname -m (ex. x86_64)
+#  OSTYPE:   $OSTYPE  (ex. darwin23.0)
+#  PLATFORM: linux | win32 | cygwin | darwin | wasi
 main ./Brewfile.$OSTYPE.$PLATFORM
